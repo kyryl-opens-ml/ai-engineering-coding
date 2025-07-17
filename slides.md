@@ -214,36 +214,125 @@ Click on any tool name to learn more
 
 # But usually with good products
 
+<div class="mt-8">
+
+```mermaid
+graph LR
+    subgraph Products["🎨 Products"]
+        P1[Lovable.dev]
+        P2[Bolt.new]
+        P3[V0.dev]
+        P4[Gemini Canvas]
+    end
+    
+    subgraph Editors["✏️ Editors"]
+        E1[Cursor]
+        E2[Windsurf]
+        E3[VS Code Copilot]
+        E4[Zed]
+    end
+    
+    subgraph Agents["🤖 Agents"]
+        A1[Cursor Agents]
+        A2[OpenAI Codex]
+        A3[Jules by Google]
+        A4[Claude Code]
+        A5[Gemini CLI]
+    end
+    
+    P1 --> Editors
+    P2 --> Editors
+    P3 --> Editors
+    
+    Editors --> Agents
+    
+    click P1 "https://lovable.dev/" _blank
+    click P2 "https://bolt.new/" _blank
+    click P3 "https://v0.dev/" _blank
+    click P4 "https://gemini.google.com/overview/canvas/" _blank
+    
+    click A1 "https://cursor.com/agents" _blank
+    click A2 "https://openai.com/index/introducing-codex/" _blank
+    click A3 "https://jules.google/" _blank
+    click A4 "https://www.anthropic.com/claude-code" _blank
+    click A5 "https://github.com/google-gemini/gemini-cli" _blank
+    
+    click E1 "https://cursor.com/" _blank
+    click E2 "https://windsurf.com/editor" _blank
+    click E3 "https://github.com/microsoft/vscode-copilot-chat" _blank
+    click E4 "https://github.com/zed-industries/zed" _blank
+    
+    style Products fill:#f9f,stroke:#333,stroke-width:2px
+    style Agents fill:#bbf,stroke:#333,stroke-width:2px
+    style Editors fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+<div class="mt-4 text-center text-sm text-gray-400">
+The ecosystem is interconnected - Products generate code for Editors, Editors integrate with Agents
+</div>
+
 ---
 
 # But usually with good products
 
-<div class="grid grid-cols-2 gap-8 mt-8">
+---
+
+# Ideas to try with Bolt.new
+
+<div class="grid grid-cols-2 gap-4 mt-4 text-xs">
+
+<div>
 
 <div v-click>
-
-## Traditional Coding
-- Learn syntax first
-- Debug line by line
-- Stack Overflow diving
-- Years to proficiency
-- Implementation focused
-
+<strong>💀 DeathClock.lol</strong><br/>
+Lifestyle → death countdown with sass
 </div>
 
 <div v-click>
+<strong>🤡 RoastMyStartup.ai</strong><br/>
+Get your startup idea demolished
+</div>
 
-## Vibe Coding
-- Describe your intent
-- AI handles syntax
-- Instant prototypes
-- Minutes to start
-- Outcome focused
+<div v-click>
+<strong>🔥 BurnItDown.club</strong><br/>
+Watch things you hate burn virtually
+</div>
 
+<div v-click>
+<strong>👻 GhostYourself.io</strong><br/>
+Generate elaborate excuses instantly
 </div>
 
 </div>
 
-<div v-click class="mt-12 text-center text-xl">
-<span class="text-yellow-400">⚡</span> The barrier to entry has never been lower
+<div>
+
+<div v-click>
+<strong>🎭 UnhingedLinkedIn.com</strong><br/>
+LinkedIn but brutally honest
+</div>
+
+<div v-click>
+<strong>🌶️ ToxicOrFlirting.game</strong><br/>
+AI judges your text screenshots
+</div>
+
+<div v-click>
+<strong>🎪 ExistentialCrisis.chat</strong><br/>
+Simple questions → reality crisis
+</div>
+
+<div v-click>
+<strong>🔮 FortuneCookie.wtf</strong><br/>
+Gen Z chaos fortune cookies
+</div>
+
+</div>
+
+</div>
+
+<div v-click class="mt-6 text-center text-lg">
+<span class="text-yellow-400">🚀</span> Build any of these in an afternoon!
 </div>
