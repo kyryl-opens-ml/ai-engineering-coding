@@ -96,11 +96,11 @@ Market review
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
-    <img src="../images/image-1.png" alt="The Way of Code" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="../images/image-1.1.png" alt="The Way of Code" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://www.thewayofcode.com/" target="_blank">thewayofcode.com</a>
   </div>
   <div style="text-align: center;">
-    <img src="../images/image-2.png" alt="Karpathy Vibe Coding Tweet" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="../images/image-1.2.png" alt="Karpathy Vibe Coding Tweet" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://x.com/karpathy/status/1886192184808149383?lang=en" target="_blank">x.com/karpathy/status/1886192184808149383</a>
   </div>
 </div>
@@ -109,13 +109,34 @@ Market review
 
 # LLMs are good at code
 
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
+  <div style="text-align: center;">
+    <img src="../images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://github.com/swe-bench/SWE-bench" target="_blank">github.com/swe-bench/SWE-bench</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="../images/image-2.2.png" alt="Aider Leaderboards" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://aider.chat/docs/leaderboards/" target="_blank">aider.chat/docs/leaderboards/</a>
+  </div>
+</div>
+
 ---
 
 # Devs are using it a lot!
 
+<div style="text-align: center; margin-bottom: 16px;">
+  <img src="../images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
+</div>
+
 ---
 
 # Market reacts
+
+<div style="text-align: center; margin-bottom: 16px;">
+  <img src="../images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
+</div>
 
 ---
 
