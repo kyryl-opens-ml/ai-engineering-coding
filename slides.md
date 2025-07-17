@@ -62,7 +62,7 @@ transition: fade-out
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">🏢 AXL Way</h3>
+<h3 class="text-2xl mb-2">🏢 AXL</h3>
 <p class="text-gray-400">How do we use it and how should we use it at AXL</p>
 </div>
 
@@ -336,3 +336,75 @@ Gen Z chaos fortune cookies
 <div v-click class="mt-6 text-center text-lg">
 <span class="text-yellow-400">🚀</span> Build any of these in an afternoon!
 </div>
+
+---
+layout: section
+---
+
+# Mind the GAP
+
+What is the gap between real product & vibe coded solutions
+
+---
+
+# How wide is the gap?
+
+---
+
+# Cost of software
+
+---
+
+# Vibe coding - depends on taste
+
+Taste comes with practice
+
+---
+
+# Better abstractions
+
+---
+
+# Accelerate for AI coding
+
+---
+
+# Rule of thumb
+
+---
+layout: section
+---
+
+# AXL way
+
+How do we use it and how should we use it at AXL
+
+---
+
+# Our setup
+
+---
+
+# Cursor stats
+
+---
+
+# Team opinion
+
+---
+
+# Pre-requisites
+
+PR, CI/CD, deployment
+
+---
+
+# Option 1: Slack
+
+---
+
+# Option 2: Dashboard
+
+---
+
+# Option 3: Mobile
