@@ -142,6 +142,17 @@ Market review
 
 # Sometimes in a bad way
 
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
+  <div style="text-align: center;">
+    <img src="../images/image-5.1.png" alt="Thoughts On A Month With Devin" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://www.answer.ai/posts/2025-01-08-devin.html" target="_blank">answer.ai/posts/2025-01-08-devin.html</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="../images/image-5.2.png" alt="Debunking Devin YouTube" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://www.youtube.com/watch?v=tNmgmwEtoWE" target="_blank">youtube.com/watch?v=tNmgmwEtoWE</a>
+  </div>
+</div>
+
 ---
 
 # But usually with good products
