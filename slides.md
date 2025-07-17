@@ -62,7 +62,7 @@ transition: fade-out
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">🏢 AXL</h3>
+<h3 class="text-2xl mb-2">🏢 AXL Way</h3>
 <p class="text-gray-400">How do we use it and how should we use it at AXL</p>
 </div>
 
