@@ -27,13 +27,6 @@ mdc: true
 
 # You don't have an excuse not to code now!
 
-## Or how to harness vibe coding efficiently
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover:bg="white op-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
 
 <div class="abs-br m-6 text-xl">
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
@@ -52,23 +45,30 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
-# About This Talk
+# Agenda
 
-<div class="my-10">
-
-If you are not a technical person or have not coded in a long time - **it's definitely worth staying**
-
-</div>
+<div class="space-y-8 mt-10">
 
 <v-clicks>
 
-- 🎯 What vibe coding is and how it changes engineering
-- 🛠️ Overview of agents, products, and code editors
-- 🌉 The gap between POC and production
-- 🏢 How we use vibe coding at AXL
-- 🚀 Getting started after 20 years away from code
+<div>
+<h3 class="text-2xl mb-2">🌟 Gentle intro</h3>
+<p class="text-gray-400">Market review of vibe coding tools and capabilities</p>
+</div>
+
+<div>
+<h3 class="text-2xl mb-2">🌉 Mind the GAP</h3>
+<p class="text-gray-400">What is the gap between real product & vibe coded solutions</p>
+</div>
+
+<div>
+<h3 class="text-2xl mb-2">🏢 AXL</h3>
+<p class="text-gray-400">How do we use it and how should we use it at AXL</p>
+</div>
 
 </v-clicks>
+
+</div>
 
 ---
 layout: center
