@@ -80,13 +80,15 @@ https://www.redpoint.com/infrared/report/
 5. sometimes in a bad way:
 
 https://www.answer.ai/posts/2025-01-08-devin.html
+https://www.youtube.com/watch?v=tNmgmwEtoWE
+
 
 
 6. But usually with good products: diagram [product, agents, editors]
 
-Products: https://lovable.dev/, https://bolt.new/, https://v0.dev/, Gemini canvas, 
+Products: https://lovable.dev/, https://bolt.new/, https://v0.dev/, https://gemini.google/overview/canvas/ 
 Agents: https://cursor.com/agents, https://openai.com/index/introducing-codex/, https://jules.google/, https://www.anthropic.com/claude-code, https://github.com/google-gemini/gemini-cli
-Editors: https://cursor.com/, https://windsurf.com/editor
+Editors: https://cursor.com/, https://windsurf.com/editor, https://github.com/microsoft/vscode-copilot-chat, https://github.com/zed-industries/zed
 
 7. Products: diagram [prodcut, agetns, editros] - interconnect 
 

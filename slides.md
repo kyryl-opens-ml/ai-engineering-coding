@@ -183,6 +183,22 @@ graph TD
         E4[Zed]
     end
     
+    click P1 "https://lovable.dev/" _blank
+    click P2 "https://bolt.new/" _blank
+    click P3 "https://v0.dev/" _blank
+    click P4 "https://gemini.google.com/overview/canvas/" _blank
+    
+    click A1 "https://cursor.com/agents" _blank
+    click A2 "https://openai.com/index/introducing-codex/" _blank
+    click A3 "https://jules.google/" _blank
+    click A4 "https://www.anthropic.com/claude-code" _blank
+    click A5 "https://github.com/google-gemini/gemini-cli" _blank
+    
+    click E1 "https://cursor.com/" _blank
+    click E2 "https://windsurf.com/editor" _blank
+    click E3 "https://github.com/microsoft/vscode-copilot-chat" _blank
+    click E4 "https://github.com/zed-industries/zed" _blank
+    
     style Products fill:#f9f,stroke:#333,stroke-width:2px
     style Agents fill:#bbf,stroke:#333,stroke-width:2px
     style Editors fill:#bfb,stroke:#333,stroke-width:2px
