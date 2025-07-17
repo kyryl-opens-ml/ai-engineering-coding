@@ -157,6 +157,43 @@ Market review
 
 # But usually with good products
 
+<div class="mt-8">
+
+```mermaid
+graph TD
+    subgraph Products["🎨 Products"]
+        P1[Lovable.dev]
+        P2[Bolt.new]
+        P3[V0.dev]
+        P4[Gemini Canvas]
+    end
+    
+    subgraph Agents["🤖 Agents"]
+        A1[Cursor Agents]
+        A2[OpenAI Codex]
+        A3[Jules by Google]
+        A4[Claude Code]
+        A5[Gemini CLI]
+    end
+    
+    subgraph Editors["✏️ Editors"]
+        E1[Cursor]
+        E2[Windsurf]
+        E3[VS Code Copilot]
+        E4[Zed]
+    end
+    
+    style Products fill:#f9f,stroke:#333,stroke-width:2px
+    style Agents fill:#bbf,stroke:#333,stroke-width:2px
+    style Editors fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+<div class="mt-4 text-center text-sm text-gray-400">
+Click on any tool name to learn more
+</div>
+
 ---
 
 # But usually with good products
