@@ -75,6 +75,18 @@ layout: center
 class: text-center
 ---
 
+# Why not AXL standard template?
+
+<div class="text-3xl mt-12">
+Because this presentation was vibe coded as well! 🎉
+</div>
+
+
+---
+layout: center
+class: text-center
+---
+
 # What is Vibe Coding?
 
 <div class="text-2xl mt-8">
