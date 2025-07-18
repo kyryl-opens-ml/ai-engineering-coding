@@ -849,5 +849,49 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 </div>
 
+---
 
+# Ideal state
 
+<div class="mt-2">
+
+<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
+
+<div class="grid grid-cols-4 gap-3 mt-4">
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
+</div>
+
+</div>
+
+<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
+<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
+<a href="https://cursor.com/team/accept-invite?code=07a902764b3b2347607a96e3e0f3dee23e79e3eb02150976" target="_blank" class="text-xs text-blue-600 hover:underline">
+cursor.com/team/accept-invite
+</a>
+<p class="text-xs text-gray-600">$40/month per seat</p>
+</div>
+
+<div v-click class="mt-3 p-2 bg-gray-100 rounded">
+<p class="text-sm font-bold">📋 Example: Tovi's CodeAid IP request</p>
+<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
+</div>
+
+</div>
