@@ -499,16 +499,16 @@ Martin Fowler on LLMs & abstraction
 <div v-click>
 <h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
 <ul class="space-y-2 text-lg">
-<li>📦 Continuous Delivery</li>
-<li>🏗️ Architecture</li>
-<li>🎯 Product and Process</li>
-<li>📊 Lean Management and Monitoring</li>
-<li>🌟 Culture</li>
+<li>Continuous Delivery</li>
+<li>Architecture</li>
+<li>Product and Process</li>
+<li>Lean Management and Monitoring</li>
+<li>Culture</li>
 </ul>
 </div>
 
 <div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
-<p class="text-lg font-semibold">⚠️ But in AI assistant development - they seem to require refresh</p>
+<p class="text-lg font-semibold">But in AI assistant development - they seem to require refresh</p>
 </div>
 
 </div>
@@ -705,45 +705,45 @@ What worked? What didn't? What surprised you?
 
 # Ideal state
 
-<div class="mt-8">
+<div class="mt-2">
 
-<h2 class="text-2xl text-center mb-8">I want everyone from AXL to contribute code!</h2>
+<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
 
-<div class="grid grid-cols-4 gap-4 mt-8">
-
-<div v-click class="text-center">
-<div class="text-4xl mb-4">💬</div>
-<h3 class="text-lg font-bold">From Slack!</h3>
-</div>
+<div class="grid grid-cols-4 gap-3 mt-4">
 
 <div v-click class="text-center">
-<div class="text-4xl mb-4">📱</div>
-<h3 class="text-lg font-bold">From Mobile</h3>
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
 </div>
 
 <div v-click class="text-center">
-<div class="text-4xl mb-4">🌐</div>
-<h3 class="text-lg font-bold">From Web</h3>
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
 </div>
 
 <div v-click class="text-center">
-<div class="text-4xl mb-4">🚫💻</div>
-<h3 class="text-lg font-bold">No Computer!</h3>
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
 </div>
 
 </div>
 
-<div v-click class="mt-8 p-4 bg-blue-50 rounded-lg text-center">
-<h3 class="text-lg font-bold mb-2">🎯 Join AXL Cursor Team</h3>
-<a href="https://cursor.com/team/accept-invite?code=07a902764b3b2347607a96e3e0f3dee23e79e3eb02150976" target="_blank" class="text-blue-600 hover:underline">
+<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
+<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
+<a href="https://cursor.com/team/accept-invite?code=07a902764b3b2347607a96e3e0f3dee23e79e3eb02150976" target="_blank" class="text-xs text-blue-600 hover:underline">
 cursor.com/team/accept-invite
 </a>
-<p class="text-sm text-gray-600 mt-2">$40 USD per month per seat, but worth every cent! 💎</p>
+<p class="text-xs text-gray-600">$40/month per seat</p>
 </div>
 
-<div v-click class="mt-4 p-4 bg-gray-100 rounded-lg">
-<h3 class="text-lg font-bold mb-2">📋 Example: Tovi's request about potential IP for CodeAid from SRED & TeachAI projects</h3>
-<p class="text-sm text-gray-600">Let's use it as example in 3 ways: Slack, Web, Mobile</p>
+<div v-click class="mt-3 p-2 bg-gray-100 rounded">
+<p class="text-sm font-bold">📋 Example: Tovi's CodeAid IP request</p>
+<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
 </div>
 
 </div>
@@ -785,7 +785,7 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
-# Pattern 2: Dashboard (Web)
+# Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
 
