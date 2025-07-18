@@ -381,21 +381,135 @@ How do we use it and how should we use it at AXL
 
 ---
 
+# Pre-requisites
+
+<div class="mt-6">
+
+**Each project = Code + One Pager + Running version**
+
+<div class="grid grid-cols-2 gap-8 mt-6 text-sm">
+
+<div v-click>
+
+### 📁 GitHub - Code Storage
+- **REPO**: Specific code location for project
+- **PR (Pull Request)**: Atomic set of work
+  - Can be reviewed ✓
+  - Can be accepted ✅
+  - Can be rejected ❌
+- **REPO updated via PR**
+
+</div>
+
+<div v-click>
+
+### 🚀 Automation & Access
+- **CI/CD**: Automation to move updated code to live
+- **Deployment**: Where you access it
+  - Railway in our case 🚂
+
+</div>
+
+</div>
+
+</div>
+
+---
+
 # Our setup
+
+<div class="mt-8">
+
+```mermaid
+graph LR
+    TEAM[👥 TEAM] --> CURSOR[🖱️ CURSOR<br/><small>All LLMs, UI, Editor, Agents</small>]
+    CURSOR --> GITHUB[📦 GITHUB<br/><small>for code</small>]
+    GITHUB --> RAILWAY[🚂 RAILWAY<br/><small>for deployments</small>]
+    
+    style TEAM fill:#f9f,stroke:#333,stroke-width:2px
+    style CURSOR fill:#bbf,stroke:#333,stroke-width:2px
+    style GITHUB fill:#bfb,stroke:#333,stroke-width:2px
+    style RAILWAY fill:#ffb,stroke:#333,stroke-width:2px
+```
+
+</div>
 
 ---
 
 # Cursor stats
 
+<div class="grid grid-cols-2 gap-4 mt-4">
+
+<div>
+<img src="../images/stats-1.1.png" alt="Cursor Analytics 1" class="w-full" />
+</div>
+
+<div>
+<img src="../images/stats-1.2.png" alt="Cursor Analytics 2" class="w-full" />
+</div>
+
+</div>
+
+<div class="mt-4">
+<img src="../images/stats-1.3.png" alt="Cursor Analytics 3" class="w-full max-w-2xl mx-auto" />
+</div>
+
+<div class="mt-4 text-center">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-400 hover:underline">
+📊 View full analytics at cursor.com/analytics
+</a>
+</div>
+
 ---
 
 # Team opinion
 
+<div class="text-center mt-16">
+
+<div class="text-4xl mb-8">🎤</div>
+
+<h2 class="text-3xl mb-8">Let's share our experience about vibe coding with Cursor</h2>
+
+<div class="text-xl text-gray-400">
+What worked? What didn't? What surprised you?
+</div>
+
+</div>
+
 ---
 
-# Pre-requisites
 
-PR, CI/CD, deployment
+# Ideal state
+
+<div class="mt-8">
+
+<h2 class="text-2xl text-center mb-8">I want everyone from AXL to contribute code!</h2>
+
+<div class="grid grid-cols-3 gap-6 mt-8">
+
+<div v-click class="text-center">
+<div class="text-4xl mb-4">📱</div>
+<h3 class="text-lg font-bold">From Mobile</h3>
+</div>
+
+<div v-click class="text-center">
+<div class="text-4xl mb-4">🌐</div>
+<h3 class="text-lg font-bold">From Web</h3>
+</div>
+
+<div v-click class="text-center">
+<div class="text-4xl mb-4">🚫💻</div>
+<h3 class="text-lg font-bold">No Computer Needed!</h3>
+</div>
+
+</div>
+
+<div v-click class="mt-12 p-4 bg-gray-100 rounded-lg">
+<h3 class="text-lg font-bold mb-2">📋 Example: Tovi's request about potential IP for CodeAid</h3>
+<p class="text-sm text-gray-600">Let's use it as example in 3 ways: Slack, Dashboard, Mobile</p>
+</div>
+
+</div>
 
 ---
 
