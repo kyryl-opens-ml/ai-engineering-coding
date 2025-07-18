@@ -419,6 +419,9 @@ pivot-to-ai.com
 
 <h2 class="text-2xl text-center mb-8">The real cost of software is not writing it, it's ownership</h2>
 
+<div class="grid grid-cols-2 gap-8">
+
+<div>
 <div v-click>
 <h3 class="text-xl mb-4 text-blue-500">Real Costs</h3>
 <ul class="space-y-2 text-lg">
@@ -428,6 +431,19 @@ pivot-to-ai.com
 <li>Monitoring & observability</li>
 <li>Upgrades & migrations</li>
 </ul>
+</div>
+</div>
+
+<div class="flex items-center">
+<div v-click class="bg-gray-50 p-4 rounded-lg">
+<h4 class="text-lg font-semibold mb-2">Reference:</h4>
+<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank" class="text-blue-600 hover:underline">
+"The Best Code is No Code At All"
+</a>
+<p class="text-sm text-gray-600 mt-2">- Jeff Atwood, Coding Horror</p>
+</div>
+</div>
+
 </div>
 
 <div v-click class="mt-12 p-6 bg-yellow-50 rounded-lg text-center">
