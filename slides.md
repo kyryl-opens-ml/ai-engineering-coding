@@ -889,9 +889,4 @@ cursor.com/team/accept-invite
 <p class="text-xs text-gray-600">$40/month per seat</p>
 </div>
 
-<div v-click class="mt-3 p-2 bg-gray-100 rounded">
-<p class="text-sm font-bold">📋 Example: Tovi's CodeAid IP request</p>
-<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
-</div>
-
 </div>
