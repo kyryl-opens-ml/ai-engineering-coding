@@ -746,10 +746,9 @@ What worked? What didn't? What surprised you?
 <div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
 <p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
 <a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
-[PLACEHOLDER LINK]
+[AXL JOIN LINK]
 </a>
 <p class="text-xs text-gray-600">$40/month per seat</p>
-<p class="text-xs text-red-600 font-bold mt-1">⚠️ replaced with mock link</p>
 </div>
 
 <div v-click class="mt-3 p-2 bg-gray-100 rounded">
@@ -895,10 +894,9 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 <div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
 <p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
 <a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
-[PLACEHOLDER LINK]
+[AXL JOIN LINK]
 </a>
 <p class="text-xs text-gray-600">$40/month per seat</p>
-<p class="text-xs text-red-600 font-bold mt-1">⚠️ replaced with mock link</p>
 </div>
 
 </div>
