@@ -541,10 +541,28 @@ Project Management at Big Tech
 
 ---
 
-layout: section
----
 
 # Rule of thumb
+
+<div class="mt-8 text-lg">
+
+<ul class="space-y-4">
+
+<li v-click>POC/Demo - Amazing!</li>
+
+<li v-click>Keep agents on the leash</li>
+
+<li v-click>The more project complexity → The harder to do anything</li>
+
+<li v-click>Scope down</li>
+
+<li v-click>Less code is better</li>
+
+<li v-click>Specs (one pager, etc) - must!</li>
+
+</ul>
+
+</div>
 
 ---
 layout: section
