@@ -336,60 +336,36 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 
 # Ideas to try with Bolt.new
 
-<div class="grid grid-cols-2 gap-4 mt-4 text-xs">
-
-<div>
+<div class="mt-4">
 
 <div v-click>
-<strong>💀 DeathClock.lol</strong><br/>
-Lifestyle → death countdown with sass
-</div>
 
-<div v-click>
-<strong>🤡 RoastMyStartup.ai</strong><br/>
-Get your startup idea demolished
-</div>
+### 💀 DeathClock.lol
 
-<div v-click>
-<strong>🔥 BurnItDown.club</strong><br/>
-Watch things you hate burn virtually
-</div>
+A dark humor app calculating death dates based on lifestyle. Features sarcastic reminders and mortality quotes.
 
-<div v-click>
-<strong>👻 GhostYourself.io</strong><br/>
-Generate elaborate excuses instantly
-</div>
+```
+Build a death countdown app with dark humor. Users input lifestyle data (smoking, exercise, diet, stress) and get an estimated death date with sassy daily reminders and mortality-themed motivational quotes.
+```
 
 </div>
 
-<div>
+<div v-click class="mt-6">
 
-<div v-click>
-<strong>🎭 UnhingedLinkedIn.com</strong><br/>
-LinkedIn but brutally honest
-</div>
+### 🔮 FortuneCookie.wtf
 
-<div v-click>
-<strong>🌶️ ToxicOrFlirting.game</strong><br/>
-AI judges your text screenshots
-</div>
+Gen Z fortune cookies with meme culture, existential dread, and chaos predictions.
 
-<div v-click>
-<strong>🎪 ExistentialCrisis.chat</strong><br/>
-Simple questions → reality crisis
-</div>
-
-<div v-click>
-<strong>🔮 FortuneCookie.wtf</strong><br/>
-Gen Z chaos fortune cookies
-</div>
+```
+Create a Gen Z fortune cookie generator. Mix existential dread with meme culture. Include features like daily chaos predictions, shareable fortune cards with wild backgrounds, and a "vibe check" mode that roasts users.
+```
 
 </div>
 
 </div>
 
-<div v-click class="mt-6 text-center text-lg">
-<span class="text-yellow-400">🚀</span> Build any of these in an afternoon!
+<div v-click class="mt-6 text-center text-sm">
+Copy a prompt and paste into Bolt.new to build in minutes!
 </div>
 
 ---
