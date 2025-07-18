@@ -554,9 +554,67 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
-# Pattern 2: Dashboard
+# Pattern 2: Dashboard (Web)
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Use Cursor's web interface for a more visual experience!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate
+
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-2.1.png" alt="Cursor Agents Dashboard" class="w-96 rounded-lg shadow-lg" />
+</div>
+
+</div>
 
 ---
 
 # Pattern 3: Mobile
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Code on the go - no laptop required! 📱</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents on your phone
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate - even from the beach! 🏖️
+
+</div>
+
+<div v-click class="mt-4 p-3 bg-green-50 rounded-lg">
+<p class="text-sm">💡 Perfect for quick fixes, reviewing code, or when inspiration strikes during your commute!</p>
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-3.1.png" alt="Cursor Mobile Interface" class="w-64 rounded-lg shadow-lg" />
+</div>
+
+</div>
 
