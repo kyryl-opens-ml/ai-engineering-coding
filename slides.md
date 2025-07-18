@@ -83,6 +83,16 @@ Because this presentation was vibe coded as well! 🎉
 
 
 ---
+
+<div style="display: flex; flex-direction: column; gap: 20px; justify-content: center; align-items: center; height: 100%;">
+  <div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: center;">
+    <img src="../images/imaga-1.1.1.jpg" style="max-height: 70vh; max-width: 45%;" />
+    <img src="../images/imaga-1.1.2.jpg" style="max-height: 70vh; max-width: 45%;" />
+  </div>
+  <div class="text-2xl mt-4">because it was vibe coded!</div>
+</div>
+
+---
 layout: section
 ---
 
@@ -742,7 +752,7 @@ cursor.com/team/accept-invite
 </div>
 
 <div v-click class="mt-3 p-2 bg-gray-100 rounded">
-<p class="text-sm font-bold">📋 Example: Tovi's CodeAid IP request</p>
+<p class="text-sm font-bold">📋 Example: Tovi's IP request</p>
 <p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
 </div>
 
@@ -774,8 +784,8 @@ cursor.com/team/accept-invite
 ### 💡 Example (copy this):
 
 ```
-@Cursor repo=axl-lab/teach-ai "We're working with the CodeAid team for the next two weeks during the hackathon. CodeAid is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
-Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the CodeAid team?
+@Cursor repo=axl-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the X team?
 Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
 ```
 
