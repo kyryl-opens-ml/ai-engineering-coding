@@ -346,24 +346,202 @@ What is the gap between real product & vibe coded solutions
 
 # How wide is the gap?
 
+<div class="grid grid-cols-2 gap-4 mt-2">
+
+<div class="text-center">
+<img src="/images/gap-1.1.png" alt="Mind the Gap" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
+</div>
+
+<div class="text-center">
+<img src="/images/gap-1.2.png" alt="AI Coding vs Open Source" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
+<a href="https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/" target="_blank" class="text-xs text-blue-500 hover:underline">
+pivot-to-ai.com
+</a>
+</div>
+
+</div>
+
+<div class="mt-6">
+
+<div v-click>
+<h3 class="text-xl mb-4">❌ "Good at coding" ≠ "Good Software Engineer"</h3>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-4">✅ "Solving problems with code" = "Good Software Engineer"</h3>
+</div>
+
+<div v-click>
+<p class="text-lg text-gray-600 italic mt-6">Sometimes "Best code you don't have to write"</p>
+</div>
+
+</div>
+
 ---
 
 # Cost of software
 
----
+<div class="mt-8">
 
-# Vibe coding - depends on taste
+<h2 class="text-2xl text-center mb-8">The real cost of software is not writing it, it's ownership</h2>
 
-Taste comes with practice
+<div class="grid grid-cols-2 gap-8 mt-8">
+
+<div v-click>
+<h3 class="text-xl mb-4 text-blue-500">💰 Hidden Costs</h3>
+<ul class="space-y-2">
+<li>🏗️ Infrastructure</li>
+<li>🛟 Support & maintenance</li>
+<li>🔒 Security updates</li>
+<li>📊 Monitoring & observability</li>
+<li>🔄 Upgrades & migrations</li>
+</ul>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-4 text-red-500">📈 Ongoing Expenses</h3>
+<ul class="space-y-2">
+<li>👥 Team training</li>
+<li>📚 Documentation</li>
+<li>🐛 Bug fixes</li>
+<li>⚡ Performance optimization</li>
+<li>🔌 Integration maintenance</li>
+</ul>
+</div>
+
+</div>
+
+<div v-click class="mt-8 p-4 bg-yellow-50 rounded-lg text-center">
+<p class="text-lg font-semibold">💡 Writing code: ~20% | Maintaining it: ~80%</p>
+<p class="text-sm text-gray-600 mt-2">Most of the cost comes AFTER the initial development</p>
+</div>
+
+</div>
 
 ---
 
 # Better abstractions
 
+<div class="flex gap-6 items-center mt-2">
+
+<div class="flex-shrink-0">
+<img src="/images/gap-2.1.png" alt="LLMs and Abstraction Levels" class="h-96 rounded-lg shadow-lg" />
+</div>
+
+<div class="flex-1">
+
+<div v-click>
+<h3 class="text-2xl mb-4">Not just UP ↑</h3>
+<h3 class="text-2xl mb-6">But SIDEWAYS → into non-determinism</h3>
+</div>
+
+<div v-click class="text-sm">
+<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank" class="text-blue-500 hover:underline">
+Martin Fowler on LLMs & abstraction
+</a>
+</div>
+
+</div>
+
+</div>
+
 ---
 
-# Accelerate for AI coding
+# Accelerate for AI coding does not exist (yet)
 
+<div class="flex gap-6 items-center mt-4">
+
+<div class="flex-shrink-0">
+<img src="/images/gap-3.1.png" alt="Accelerate Book Cover" class="h-80 rounded-lg shadow-lg" />
+</div>
+
+<div class="flex-1">
+
+<div v-click>
+<p class="text-lg mb-4">There is fundamental research study about efficient engineering orgs</p>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
+<ul class="space-y-2 text-lg">
+<li>📦 Continuous Delivery</li>
+<li>🏗️ Architecture</li>
+<li>🎯 Product and Process</li>
+<li>📊 Lean Management and Monitoring</li>
+<li>🌟 Culture</li>
+</ul>
+</div>
+
+<div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
+<p class="text-lg font-semibold">⚠️ But in AI assistant development - they seem to require refresh</p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Best attempt: keeping agents on the leash
+
+<div class="mt-4">
+
+<div class="grid grid-cols-2 gap-4 mb-4">
+
+<div>
+<img src="/images/gap-4.1.png" alt="AI Human Verification Loop" class="w-full rounded-lg shadow-lg" />
+</div>
+
+<div>
+<img src="/images/gap-4.2.png" alt="Keeping Agents on Leash Example" class="w-full rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+<div v-click class="text-center mt-6">
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank" class="text-blue-500 hover:underline text-lg">
+🎥 Watch the full talk on YouTube
+</a>
+</div>
+
+</div>
+
+
+---
+
+# Best attempt: AWS Play Kiro
+
+<div class="mt-4">
+
+<div class="grid grid-cols-2 gap-6">
+
+<div class="text-center">
+<img src="/images/gap-5.1.png" alt="Introducing Kiro" class="w-full rounded-lg shadow-lg mb-2" />
+<a href="https://kiro.dev/blog/introducing-kiro/" target="_blank" class="text-sm text-blue-500 hover:underline">
+Introducing Kiro - A new agentic IDE
+</a>
+</div>
+
+<div class="text-center">
+<img src="/images/gap-5.2.png" alt="Project Management at Big Tech" class="w-full rounded-lg shadow-lg mb-2" />
+<a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/" target="_blank" class="text-sm text-blue-500 hover:underline">
+Project Management at Big Tech
+</a>
+</div>
+
+</div>
+
+<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg text-center">
+<p class="text-lg">Combining spec-driven development with AI agents for better production readiness</p>
+</div>
+
+</div>
+
+
+
+---
+
+layout: section
 ---
 
 # Rule of thumb
