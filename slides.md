@@ -419,35 +419,20 @@ pivot-to-ai.com
 
 <h2 class="text-2xl text-center mb-8">The real cost of software is not writing it, it's ownership</h2>
 
-<div class="grid grid-cols-2 gap-8 mt-8">
-
 <div v-click>
-<h3 class="text-xl mb-4 text-blue-500">💰 Hidden Costs</h3>
-<ul class="space-y-2">
-<li>🏗️ Infrastructure</li>
-<li>🛟 Support & maintenance</li>
-<li>🔒 Security updates</li>
-<li>📊 Monitoring & observability</li>
-<li>🔄 Upgrades & migrations</li>
+<h3 class="text-xl mb-4 text-blue-500">Real Costs</h3>
+<ul class="space-y-2 text-lg">
+<li>Infrastructure</li>
+<li>Support & maintenance</li>
+<li>Security updates</li>
+<li>Monitoring & observability</li>
+<li>Upgrades & migrations</li>
 </ul>
 </div>
 
-<div v-click>
-<h3 class="text-xl mb-4 text-red-500">📈 Ongoing Expenses</h3>
-<ul class="space-y-2">
-<li>👥 Team training</li>
-<li>📚 Documentation</li>
-<li>🐛 Bug fixes</li>
-<li>⚡ Performance optimization</li>
-<li>🔌 Integration maintenance</li>
-</ul>
-</div>
-
-</div>
-
-<div v-click class="mt-8 p-4 bg-yellow-50 rounded-lg text-center">
-<p class="text-lg font-semibold">💡 Writing code: ~20% | Maintaining it: ~80%</p>
-<p class="text-sm text-gray-600 mt-2">Most of the cost comes AFTER the initial development</p>
+<div v-click class="mt-12 p-6 bg-yellow-50 rounded-lg text-center">
+<p class="text-2xl font-bold">Writing code: ~20% | Maintaining it: ~80%</p>
+<p class="text-lg text-gray-600 mt-2">Most of the cost comes AFTER the initial development</p>
 </div>
 
 </div>
