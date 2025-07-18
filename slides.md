@@ -157,57 +157,81 @@ Market review
 
 # But usually with good products
 
-<div class="mt-8">
+<div class="grid grid-cols-3 gap-6 mt-8">
 
-```mermaid
-graph TD
-    subgraph Products["🎨 Products"]
-        P1[Lovable.dev]
-        P2[Bolt.new]
-        P3[V0.dev]
-        P4[Gemini Canvas]
-    end
-    
-    subgraph Agents["🤖 Agents"]
-        A1[Cursor Agents]
-        A2[OpenAI Codex]
-        A3[Jules by Google]
-        A4[Claude Code]
-        A5[Gemini CLI]
-    end
-    
-    subgraph Editors["✏️ Editors"]
-        E1[Cursor]
-        E2[Windsurf]
-        E3[VS Code Copilot]
-        E4[Zed]
-    end
-    
-    click P1 "https://lovable.dev/" _blank
-    click P2 "https://bolt.new/" _blank
-    click P3 "https://v0.dev/" _blank
-    click P4 "https://gemini.google.com/overview/canvas/" _blank
-    
-    click A1 "https://cursor.com/agents" _blank
-    click A2 "https://openai.com/index/introducing-codex/" _blank
-    click A3 "https://jules.google/" _blank
-    click A4 "https://www.anthropic.com/claude-code" _blank
-    click A5 "https://github.com/google-gemini/gemini-cli" _blank
-    
-    click E1 "https://cursor.com/" _blank
-    click E2 "https://windsurf.com/editor" _blank
-    click E3 "https://github.com/microsoft/vscode-copilot-chat" _blank
-    click E4 "https://github.com/zed-industries/zed" _blank
-    
-    style Products fill:#f9f,stroke:#333,stroke-width:2px
-    style Agents fill:#bbf,stroke:#333,stroke-width:2px
-    style Editors fill:#bfb,stroke:#333,stroke-width:2px
-```
+<div>
+
+### ✏️ Editors
+
+<div class="bg-green-50 p-4 rounded-lg">
+
+**[Cursor](https://cursor.com/)**  
+AI-first code editor
+
+**[Windsurf](https://codeium.com/windsurf)**  
+The IDE for AI agents
+
+**[VS Code Copilot](https://code.visualstudio.com/)**  
+GitHub's AI pair programmer
+
+**[Zed](https://zed.dev/)**  
+High-performance multiplayer editor
 
 </div>
 
-<div class="mt-4 text-center text-sm text-gray-400">
-Click on any tool name to learn more
+</div>
+
+<div>
+
+### 🤖 Agents
+
+<div class="bg-blue-50 p-4 rounded-lg">
+
+**[Cursor Agents](https://cursor.com/)**  
+Autonomous coding agents
+
+**[OpenAI Codex](https://openai.com/index/introducing-openai-o1-preview/)**  
+Powers GitHub Copilot
+
+**[Jules by Google](https://labs.google.com/jules)**  
+AI coding companion
+
+**[Claude Code](https://claude.ai/)**  
+Anthropic's coding assistant
+
+**[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
+Google's AI in terminal
+
+</div>
+
+</div>
+
+<div>
+
+### 🎨 Products
+
+<div class="bg-pink-50 p-4 rounded-lg">
+
+**[Lovable.dev](https://lovable.dev/)**  
+Build apps with AI
+
+**[Bolt.new](https://bolt.new/)**  
+Full-stack web dev in browser
+
+**[V0.dev](https://v0.dev/)**  
+UI generation by Vercel
+
+**[Gemini Canvas](https://aistudio.google.com/)**  
+Google's AI workspace
+
+</div>
+
+</div>
+
+</div>
+
+<div class="text-center text-sm text-gray-400 mt-4">
+Click on any tool to learn more
 </div>
 
 ---
