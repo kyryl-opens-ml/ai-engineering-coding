@@ -275,9 +275,6 @@ The ecosystem is interconnected - Products generate code for Editors, Editors in
 
 ---
 
-# But usually with good products
-
----
 
 # Ideas to try with Bolt.new
 
@@ -438,25 +435,21 @@ graph LR
 
 # Cursor stats
 
-<div class="grid grid-cols-2 gap-4 mt-4">
+<div class="flex items-center justify-center gap-8 mt-6">
 
 <div>
-<img src="../images/stats-1.1.png" alt="Cursor Analytics 1" class="w-full" />
+<img src="/images/stats-1.1.png" alt="Cursor Analytics Overview" class="w-96" />
 </div>
 
 <div>
-<img src="../images/stats-1.2.png" alt="Cursor Analytics 2" class="w-full" />
+<img src="/images/stats-1.4.png" alt="Cursor Analytics Details" class="w-48" />
 </div>
 
 </div>
 
-<div class="mt-4">
-<img src="../images/stats-1.3.png" alt="Cursor Analytics 3" class="w-full max-w-2xl mx-auto" />
-</div>
-
-<div class="mt-4 text-center">
-<a href="https://cursor.com/analytics" target="_blank" class="text-blue-400 hover:underline">
-📊 View full analytics at cursor.com/analytics
+<div class="mt-6 text-center text-lg">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-500 hover:text-blue-700 hover:underline font-semibold">
+📊 View full analytics at cursor.com/analytics →
 </a>
 </div>
 
