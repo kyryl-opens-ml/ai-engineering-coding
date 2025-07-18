@@ -498,20 +498,20 @@ What worked? What didn't? What surprised you?
 </div>
 
 <div v-click class="mt-12 p-4 bg-gray-100 rounded-lg">
-<h3 class="text-lg font-bold mb-2">📋 Example: Tovi's request about potential IP for CodeAid</h3>
-<p class="text-sm text-gray-600">Let's use it as example in 3 ways: Slack, Dashboard, Mobile</p>
+<h3 class="text-lg font-bold mb-2">📋 Example: Tovi's request about potential IP for CodeAid from SRED & TeachAI projects</h3>
+<p class="text-sm text-gray-600">Let's use it as example in 3 ways: Slack, Web, Mobile</p>
 </div>
 
 </div>
 
 ---
 
-# Option 1: Slack
+# Pattern 1: Slack
 
 ---
 
-# Option 2: Dashboard
+# Pattern 2: Dashboard
 
 ---
 
-# Option 3: Mobile
+# Pattern 3: Mobile
