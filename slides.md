@@ -478,7 +478,12 @@ What worked? What didn't? What surprised you?
 
 <h2 class="text-2xl text-center mb-8">I want everyone from AXL to contribute code!</h2>
 
-<div class="grid grid-cols-3 gap-6 mt-8">
+<div class="grid grid-cols-4 gap-4 mt-8">
+
+<div v-click class="text-center">
+<div class="text-4xl mb-4">💬</div>
+<h3 class="text-lg font-bold">From Slack!</h3>
+</div>
 
 <div v-click class="text-center">
 <div class="text-4xl mb-4">📱</div>
@@ -492,12 +497,20 @@ What worked? What didn't? What surprised you?
 
 <div v-click class="text-center">
 <div class="text-4xl mb-4">🚫💻</div>
-<h3 class="text-lg font-bold">No Computer Needed!</h3>
+<h3 class="text-lg font-bold">No Computer!</h3>
 </div>
 
 </div>
 
-<div v-click class="mt-12 p-4 bg-gray-100 rounded-lg">
+<div v-click class="mt-8 p-4 bg-blue-50 rounded-lg text-center">
+<h3 class="text-lg font-bold mb-2">🎯 Join AXL Cursor Team</h3>
+<a href="https://cursor.com/team/accept-invite?code=07a902764b3b2347607a96e3e0f3dee23e79e3eb02150976" target="_blank" class="text-blue-600 hover:underline">
+cursor.com/team/accept-invite
+</a>
+<p class="text-sm text-gray-600 mt-2">$40 USD per month per seat, but worth every cent! 💎</p>
+</div>
+
+<div v-click class="mt-4 p-4 bg-gray-100 rounded-lg">
 <h3 class="text-lg font-bold mb-2">📋 Example: Tovi's request about potential IP for CodeAid from SRED & TeachAI projects</h3>
 <p class="text-sm text-gray-600">Let's use it as example in 3 ways: Slack, Web, Mobile</p>
 </div>
@@ -508,6 +521,37 @@ What worked? What didn't? What surprised you?
 
 # Pattern 1: Slack
 
+<div class="mt-4">
+
+<div class="text-lg mb-6">
+<strong>Just message Cursor in Slack like you would message your colleagues!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Join **#ml-team-vibe-coding** slack channel
+2. Write `@Cursor repo=<ask if need help> "Write what you want to do"`
+3. Wait till green checkmark ✅
+4. Ask eng to review & see preview of your changes
+5. Iterate (my conversations are very very long running)
+
+</div>
+
+<div v-click class="mt-6 p-4 bg-gray-100 rounded-lg">
+
+### 💡 Example (copy this):
+
+```
+@Cursor repo=axl-lab/teach-ai "We're working with the CodeAid team for the next two weeks during the hackathon. CodeAid is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the CodeAid team?
+Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
+```
+
+</div>
+
+</div>
+
 ---
 
 # Pattern 2: Dashboard
@@ -515,3 +559,4 @@ What worked? What didn't? What surprised you?
 ---
 
 # Pattern 3: Mobile
+
