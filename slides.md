@@ -327,11 +327,11 @@ Dentons Partnership
 <p class="text-sm mb-3">(Human Computer Interaction)</p>
 
 <div class="text-sm">
-<p class="font-semibold mb-2">Goals to setup ML team:</p>
+<p class="font-semibold mb-2">Goals of ML team:</p>
 <ul class="space-y-1 ml-3">
-<li>• Build prototypes</li>
-<li>• Work with portfolio companies</li>
-<li>• Collaborate with corporate partners</li>
+<li> Build prototypes</li>
+<li> Work with portfolio companies</li>
+<li> Collaborate with corporate partners</li>
 </ul>
 </div>
 </div>
@@ -341,7 +341,7 @@ Dentons Partnership
 
 ---
 
-# Flow
+# Current Flow
 
 <div class="grid grid-cols-2 gap-8 mt-4">
 
@@ -349,13 +349,14 @@ Dentons Partnership
 <h3 class="text-2xl font-bold mb-4">ML team</h3>
 
 <ul class="space-y-2 text-lg">
-<li>• 4 interns</li>
-<li>• 1 full stack</li>
-<li>• 2 designers</li>
+<li> 4 MScAC interns</li>
+<li> 1 full stack</li>
+<li> 2 designers</li>
+<li> 1 ML advisor </li>
 </ul>
 
 <div class="mt-6">
-<p class="text-lg font-semibold">AI coding tools: Cursor Team Plan</p>
+<p class="text-base mt-2">✓ Interview checks for AI usage</p>
 </div>
 </div>
 
@@ -365,6 +366,8 @@ Dentons Partnership
 <h3 class="text-2xl font-bold mb-4">Process</h3>
 
 <p class="text-lg font-semibold mb-4">Each project = Code + One Pager + Deployment</p>
+<p class="text-base mb-4">Most projects: LLM + Design</p>
+<p class="text-base mb-4">AI coding tools: Cursor Team Plan</p>
 
 ```mermaid
 graph LR
@@ -382,24 +385,34 @@ graph LR
 
 </div>
 
+<div class="text-center text-sm text-gray-600 mt-4">
+📢 I am hiring for my full-time replacement: ML Lead / Head of AI
+</div>
+
 ---
 
 # Stats Cursors
 
-<div class="grid grid-cols-3 gap-4 mt-4">
+<div class="grid grid-cols-2 gap-4 mt-4">
 
 <div class="text-center">
-<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-full rounded-lg shadow-lg" />
+<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
 </div>
 
 <div class="text-center">
-<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-full rounded-lg shadow-lg" />
+<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
 </div>
 
-<div class="text-center">
-<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-full rounded-lg shadow-lg" />
 </div>
 
+<div class="text-center mt-4">
+<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
+</div>
+
+<div class="text-center mt-4">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-600 hover:text-blue-800">
+📊 cursor.com/analytics
+</a>
 </div>
 
 ---
