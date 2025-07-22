@@ -72,10 +72,19 @@ layout: center
 class: text-center
 ---
 
-# Vibe coding have you hear it?
+# Vibe coding!
 
-<div class="text-3xl mt-12">
-Because this presentation was vibe coded as well! 🎉
+<div class="flex items-center justify-center gap-8 mt-8">
+  <div>
+    <div class="text-3xl mb-4">
+      This is vibe coded presentation
+    </div>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/shorts/64TNGvCoegE" target="_blank">
+      <img src="/images/intro.png" alt="Vibe Coding" class="w-96 rounded-lg shadow-lg" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -123,6 +132,9 @@ GitHub's AI pair programmer
 
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer editor
+
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production code
 
 </div>
 
@@ -207,6 +219,9 @@ GitHub's AI pair programmer
 
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer
+
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production
 
 </div>
 
@@ -340,7 +355,7 @@ Dentons Partnership
 </ul>
 
 <div class="mt-6">
-<p class="text-lg font-semibold">AI coding tools: Team Plan Cursor</p>
+<p class="text-lg font-semibold">AI coding tools: Cursor Team Plan</p>
 </div>
 </div>
 
