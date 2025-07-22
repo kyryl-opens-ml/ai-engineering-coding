@@ -640,24 +640,32 @@ layout: section
 
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Accelerate & Best practices</h3>
-<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg" />
+<a href="https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339" target="_blank">
+<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
 </div>
 
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Agent on a leash</h3>
-<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg" />
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">
+<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
 </div>
 
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Better abstractions</h3>
-<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg" />
+<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank">
+<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
 </div>
 
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Real cost is ownership</h3>
-<div class="flex items-center justify-center h-32 p-4 bg-yellow-50 rounded">
+<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank">
+<div class="flex items-center justify-center h-32 p-4 bg-yellow-50 rounded hover:bg-yellow-100 transition-colors">
 <p class="text-sm font-semibold">Writing: 20%<br/>Maintaining: 80%</p>
 </div>
+</a>
 </div>
 
 </div>
