@@ -571,18 +571,30 @@ layout: section
 
 # Lessons
 
----
+<div class="grid grid-cols-2 gap-8 mt-6">
 
-# accelerate
+<div class="flex items-center">
+<ul class="space-y-6 text-xl">
+<li class="font-bold">• Accelerate</li>
+<li class="font-bold">• Agent on a leash</li>
+<li class="font-bold">• Better abstractions</li>
+<li class="font-bold">• Real cost is ownership</li>
+</ul>
+</div>
 
----
+<div class="grid grid-cols-2 gap-4">
+<div>
+<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-full rounded shadow-lg" />
+</div>
+<div>
+<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-full rounded shadow-lg" />
+</div>
+<div>
+<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-full rounded shadow-lg" />
+</div>
+<div class="flex items-center justify-center p-4 bg-yellow-50 rounded">
+<p class="text-sm font-semibold text-center">Writing: 20%<br/>Maintaining: 80%</p>
+</div>
+</div>
 
-# agent on a leash
-
----
-
-# better abstractions
-
----
-
-# real costs is ownership
+</div>
