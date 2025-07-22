@@ -429,6 +429,142 @@ graph LR
 
 # Vibe coding ways
 
+<div class="mt-2">
+
+
+<div class="grid grid-cols-4 gap-3 mt-4">
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
+</div>
+
+</div>
+
+
+<div v-click class="mt-3 p-2 bg-gray-100 rounded">
+<p class="text-sm font-bold">📋 Example: Tovi's IP request</p>
+<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
+</div>
+
+</div>
+
+---
+
+# Pattern 1: Slack
+
+<div class="mt-4">
+
+<div class="text-lg mb-6">
+<strong>Just message Cursor in Slack like you would message your colleagues!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Join **#ml-team-vibe-coding** slack channel
+2. Write `@Cursor repo=<ask if need help> "Write what you want to do"`
+3. Wait till green checkmark ✅
+4. Ask eng to review & see preview of your changes
+5. Iterate (my conversations are very very long running)
+
+</div>
+
+<div v-click class="mt-6 p-4 bg-gray-100 rounded-lg">
+
+### 💡 Example (copy this):
+
+```
+@Cursor repo=axl-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the X team?
+Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
+```
+
+</div>
+
+</div>
+
+---
+
+# Pattern 2: Web
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Use Cursor's web interface for a more visual experience!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate
+
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-2.1.png" alt="Cursor Agents Dashboard" class="w-96 rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+---
+
+# Pattern 3: Mobile
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Code on the go - no laptop required! 📱</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents on your phone
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate - even from the beach! 🏖️
+
+</div>
+
+<div v-click class="mt-4 p-3 bg-green-50 rounded-lg">
+<p class="text-sm">💡 Perfect for quick fixes, reviewing code, or when inspiration strikes during your commute!</p>
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-3.1.png" alt="Cursor Mobile Interface" class="w-64 rounded-lg shadow-lg" />
+</div>
+
+</div>
+
 ---
 layout: section
 ---
@@ -449,4 +585,4 @@ layout: section
 
 ---
 
-# rest costs is ownership
+# real costs is ownership
