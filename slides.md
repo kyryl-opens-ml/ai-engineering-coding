@@ -62,7 +62,12 @@ transition: fade-out
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">Real comapny case</h3>
+<h3 class="text-2xl mb-2">Real use-case</h3>
+<p class="text-gray-400">How do we use it and how should we use it at AXL</p>
+</div>
+
+<div>
+<h3 class="text-2xl mb-2">Lessons</h3>
 <p class="text-gray-400">How do we use it and how should we use it at AXL</p>
 </div>
 
@@ -73,27 +78,6 @@ transition: fade-out
 ---
 layout: center
 class: text-center
----
-
-# Why not AXL standard template?
-
-<div class="text-3xl mt-12">
-Because this presentation was vibe coded as well! 🎉
-</div>
-
-
----
-
-<div style="display: flex; flex-direction: column; gap: 20px; justify-content: center; align-items: center; height: 100%;">
-  <div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: center;">
-    <img src="../images/imaga-1.1.1.jpg" style="max-height: 70vh; max-width: 45%;" />
-    <img src="../images/imaga-1.1.2.jpg" style="max-height: 70vh; max-width: 45%;" />
-  </div>
-  <div class="text-2xl mt-4">because it was vibe coded!</div>
-</div>
-
----
-layout: section
 ---
 
 # Gentle intro
@@ -696,69 +680,10 @@ graph LR
 
 ---
 
-# Team opinion
-
-<div class="text-center mt-16">
-
-<div class="text-4xl mb-8">🎤</div>
-
-<h2 class="text-3xl mb-8">Let's share our experience about vibe coding with Cursor</h2>
-
-<div class="text-xl text-gray-400">
-What worked? What didn't? What surprised you?
-</div>
-
-</div>
-
----
 
 
-# Ideal state
 
-<div class="mt-2">
 
-<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
-
-<div class="grid grid-cols-4 gap-3 mt-4">
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">💬</div>
-<p class="text-sm font-bold">From Slack!</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">📱</div>
-<p class="text-sm font-bold">From Mobile</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">🌐</div>
-<p class="text-sm font-bold">From Web</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">🚫💻</div>
-<p class="text-sm font-bold">No Computer!</p>
-</div>
-
-</div>
-
-<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
-<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
-<a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
-[AXL JOIN LINK]
-</a>
-<p class="text-xs text-gray-600">$40/month per seat</p>
-</div>
-
-<div v-click class="mt-3 p-2 bg-gray-100 rounded">
-<p class="text-sm font-bold">📋 Example: Tovi's IP request</p>
-<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
-</div>
-
-</div>
-
----
 
 # Pattern 1: Slack
 
@@ -861,42 +786,20 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
-# Ideal state
+# Share your opinions
 
-<div class="mt-2">
+<div class="text-center mt-16">
 
-<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
+<div class="text-4xl mb-8">💭</div>
 
-<div class="grid grid-cols-4 gap-3 mt-4">
+<h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
 
-<div v-click class="text-center">
-<div class="text-2xl mb-1">💬</div>
-<p class="text-sm font-bold">From Slack!</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">📱</div>
-<p class="text-sm font-bold">From Mobile</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">🌐</div>
-<p class="text-sm font-bold">From Web</p>
-</div>
-
-<div v-click class="text-center">
-<div class="text-2xl mb-1">🚫💻</div>
-<p class="text-sm font-bold">No Computer!</p>
+<div class="text-xl text-gray-400">
+What worked? What didn't? What surprised you?
 </div>
 
 </div>
 
-<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
-<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
-<a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
-[AXL JOIN LINK]
-</a>
-<p class="text-xs text-gray-600">$40/month per seat</p>
-</div>
+---
 
-</div>
+
