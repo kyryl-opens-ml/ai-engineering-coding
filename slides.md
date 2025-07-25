@@ -52,17 +52,17 @@ transition: fade-out
 <v-clicks>
 
 <div>
-<h3 class="text-2xl mb-2">🌟 Gentle intro</h3>
+<h3 class="text-2xl mb-2">Gentle intro</h3>
 <p class="text-gray-400">Market review of vibe coding tools and capabilities</p>
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">🌉 Mind the GAP</h3>
+<h3 class="text-2xl mb-2">Mind the GAP</h3>
 <p class="text-gray-400">What is the gap between real product & vibe coded solutions</p>
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">🏢 AXL</h3>
+<h3 class="text-2xl mb-2">Real comapny case</h3>
 <p class="text-gray-400">How do we use it and how should we use it at AXL</p>
 </div>
 
