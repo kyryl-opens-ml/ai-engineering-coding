@@ -1,0 +1,671 @@
+---
+# You can also start simply with 'default'
+theme: seriph
+# random image from a curated Unsplash collection by Anthony
+# like them? see https://unsplash.com/collections/94734566/slidev
+background: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1920
+# some information about your slides (markdown enabled)
+title: You don't have an excuse not to code now!
+info: |
+  ## How to harness vibe coding efficiently
+  
+  A tech talk about vibe coding capabilities, how we use it, and what's easiest. 
+  If you are not a technical person or have not coded in a long time - it's definitely worth coming to try.
+# apply unocss classes to the current slide
+class: text-center
+# https://sli.dev/features/drawing
+drawings:
+  persist: false
+# slide transition: https://sli.dev/guide/animations.html#slide-transitions
+transition: slide-left
+# enable MDC Syntax: https://sli.dev/features/mdc
+mdc: true
+# open graph
+# seoMeta:
+#  ogImage: https://cover.sli.dev
+---
+
+# You don't have an excuse not to code now!
+
+
+<div class="abs-br m-6 text-xl">
+  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
+    <carbon:edit />
+  </button>
+  <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
+    <carbon:logo-github />
+  </a>
+</div>
+
+<!--
+The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+-->
+
+---
+transition: fade-out
+---
+
+# Agenda
+
+<div class="space-y-8 mt-10">
+
+<v-clicks>
+
+<div>
+<h3 class="text-2xl mb-2">Context</h3>
+</div>
+
+<div>
+<h3 class="text-2xl mb-2">AXL Case</h3>
+</div>
+
+<div>
+<h3 class="text-2xl mb-2">Lessons</h3>
+</div>
+
+</v-clicks>
+
+</div>
+
+---
+layout: center
+class: text-center
+---
+
+# Vibe coding!
+
+<div class="flex items-center justify-center gap-8 mt-8">
+  <div>
+    <div class="text-3xl mb-4">
+      This is vibe coded presentation
+    </div>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/shorts/64TNGvCoegE" target="_blank">
+      <img src="/images/intro.png" alt="Vibe Coding" class="w-96 rounded-lg shadow-lg" />
+    </a>
+  </div>
+</div>
+
+---
+layout: section
+---
+
+# Context
+
+---
+
+# Vibe coding
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
+  <div style="text-align: center;">
+    <img src="../images/image-1.1.png" alt="The Way of Code" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://www.thewayofcode.com/" target="_blank">thewayofcode.com</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="../images/image-1.2.png" alt="Karpathy Vibe Coding Tweet" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://x.com/karpathy/status/1886192184808149383?lang=en" target="_blank">x.com/karpathy/status/1886192184808149383</a>
+  </div>
+</div>
+
+
+---
+
+# Products
+
+<div class="grid grid-cols-3 gap-6 mt-8">
+
+<div>
+
+### ✏️ Editors
+
+<div class="bg-green-50 p-4 rounded-lg">
+
+**[Cursor](https://cursor.com/)**  
+AI-first code editor
+
+**[Windsurf](https://codeium.com/windsurf)**  
+The IDE for AI agents
+
+**[VS Code Copilot](https://code.visualstudio.com/)**  
+GitHub's AI pair programmer
+
+**[Zed](https://zed.dev/)**  
+High-performance multiplayer editor
+
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production code
+
+</div>
+
+</div>
+
+<div>
+
+### 🤖 Agents
+
+<div class="bg-blue-50 p-4 rounded-lg">
+
+**[Cursor Agents](https://cursor.com/)**  
+Autonomous coding agents
+
+**[OpenAI Codex](https://openai.com/index/introducing-openai-o1-preview/)**  
+Powers GitHub Copilot
+
+**[Jules by Google](https://labs.google.com/jules)**  
+AI coding companion
+
+**[Claude Code](https://claude.ai/)**  
+Anthropic's coding assistant
+
+**[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
+Google's AI in terminal
+
+</div>
+
+</div>
+
+<div>
+
+### 🎨 Apps
+
+<div class="bg-pink-50 p-4 rounded-lg">
+
+**[Lovable.dev](https://lovable.dev/)**  
+Build apps with AI
+
+**[Bolt.new](https://bolt.new/)**  
+Full-stack web dev in browser
+
+**[V0.dev](https://v0.dev/)**  
+UI generation by Vercel
+
+**[Gemini Canvas](https://aistudio.google.com/)**  
+Google's AI workspace
+
+</div>
+
+</div>
+
+</div>
+
+<div class="text-center text-sm text-gray-400 mt-4">
+Click on any tool to learn more
+</div>
+
+---
+
+# Products
+
+<div class="relative">
+
+<!-- Main grid with arrows overlay -->
+<div class="grid grid-cols-3 gap-4 mt-6">
+
+<div>
+
+### ✏️ Editors
+
+<div class="bg-green-50 p-3 rounded-lg text-sm">
+
+**[Cursor](https://cursor.com/)**  
+AI-first code editor
+
+**[Windsurf](https://codeium.com/windsurf)**  
+The IDE for AI agents
+
+**[VS Code Copilot](https://code.visualstudio.com/)**  
+GitHub's AI pair programmer
+
+**[Zed](https://zed.dev/)**  
+High-performance multiplayer
+
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production
+
+</div>
+
+</div>
+
+<div>
+
+### 🤖 Agents
+
+<div class="bg-blue-50 p-3 rounded-lg text-sm">
+
+**[Cursor Agents](https://cursor.com/)**  
+Autonomous coding agents
+
+**[OpenAI Codex](https://openai.com/index/introducing-openai-o1-preview/)**  
+Powers GitHub Copilot
+
+**[Jules by Google](https://labs.google.com/jules)**  
+AI coding companion
+
+**[Claude Code](https://claude.ai/)**  
+Anthropic's coding assistant
+
+**[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
+Google's AI in terminal
+
+</div>
+
+</div>
+
+<div>
+
+### 🎨 Apps
+
+<div class="bg-pink-50 p-3 rounded-lg text-sm">
+
+**[Lovable.dev](https://lovable.dev/)**  
+Build apps with AI
+
+**[Bolt.new](https://bolt.new/)**  
+Full-stack web dev
+
+**[V0.dev](https://v0.dev/)**  
+UI generation by Vercel
+
+**[Gemini Canvas](https://aistudio.google.com/)**  
+Google's AI workspace
+
+</div>
+
+</div>
+
+</div>
+
+<!-- Connection arrows -->
+<div class="flex justify-center mt-6 text-2xl">
+<span class="text-green-500">Editors</span>
+<span class="mx-2">→</span>
+<span class="text-blue-500">Agents</span>
+<span class="mx-2">←</span>
+<span class="text-pink-500">Apps</span>
+<span class="mx-2">→</span>
+<span class="text-green-500">Editors</span>
+</div>
+
+<div class="text-center text-xs text-gray-600 mt-2">
+The ecosystem is interconnected - Apps feed both Editors and Agents, Editors integrate with Agents
+</div>
+
+</div>
+
+---
+layout: section
+---
+
+# AXL Case
+
+---
+
+# ML team setup
+
+<div class="grid grid-cols-2 gap-4 mt-2">
+
+<div class="space-y-2">
+<div>
+<img src="../images/axl-1.1.png" alt="AXL Launch Announcement" class="w-full rounded shadow mb-1" style="max-height: 200px; object-fit: contain;" />
+<a href="https://www.linkedin.com/posts/tovi-grossman-40430166_today-im-thrilled-to-share-the-public-launch-activity-7340741771095678980-_Q0W/" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
+AXL Launch
+</a>
+</div>
+
+<div>
+<img src="../images/axl-1.2.png" alt="Dentons AXL Partnership" class="w-full rounded shadow mb-1" style="max-height: 120px; object-fit: contain;" />
+<a href="https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/june/dentons-and-axl-announce-strategic-partnership-to-advance-legal-innovation-with-ai" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
+Dentons Partnership
+</a>
+</div>
+</div>
+
+<div class="flex items-center">
+<div>
+<h3 class="text-lg font-bold mb-2">New Venture Studio in Toronto focused on HCI</h3>
+<p class="text-sm mb-3">(Human Computer Interaction)</p>
+
+<div class="text-sm">
+<p class="font-semibold mb-2">Goals of ML team:</p>
+<ul class="space-y-1 ml-3">
+<li> Build prototypes</li>
+<li> Work with portfolio companies</li>
+<li> Collaborate with corporate partners</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+
+---
+
+# Current Flow
+
+<div class="grid grid-cols-2 gap-8 mt-4">
+
+<div>
+<h3 class="text-2xl font-bold mb-4">ML team</h3>
+
+<ul class="space-y-2 text-lg">
+<li> 4 MScAC interns</li>
+<li> 1 full stack</li>
+<li> 2 designers</li>
+<li> 1 ML advisor </li>
+</ul>
+
+<div class="mt-6">
+<p class="text-base mt-2">✓ Interview checks for AI usage</p>
+</div>
+</div>
+
+
+
+<div>
+<h3 class="text-2xl font-bold mb-4">Process</h3>
+
+<p class="text-lg font-semibold mb-4">Each project = Code + One Pager + Deployment</p>
+<p class="text-base mb-4">Most projects: LLM + Design</p>
+<p class="text-base mb-4">AI coding tools: Cursor Team Plan</p>
+
+```mermaid
+graph LR
+    TEAM[👥 TEAM] --> CURSOR[🖱️ CURSOR<br/><small>All LLMs, UI, Editor, Agents</small>]
+    CURSOR --> GITHUB[📦 GITHUB<br/><small>for code</small>]
+    GITHUB --> RAILWAY[🚂 RAILWAY<br/><small>for deployments</small>]
+    
+    style TEAM fill:#f9f,stroke:#333,stroke-width:2px
+    style CURSOR fill:#bbf,stroke:#333,stroke-width:2px
+    style GITHUB fill:#bfb,stroke:#333,stroke-width:2px
+    style RAILWAY fill:#ffb,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+</div>
+
+<div class="text-center text-sm text-gray-600 mt-4">
+📢 I am hiring for my full-time replacement: ML Lead / Head of AI
+</div>
+
+---
+
+# Stats Cursors
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+
+<div class="text-center">
+<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
+</div>
+
+<div class="text-center">
+<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+<div class="text-center mt-4">
+<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
+</div>
+
+<div class="text-center mt-4">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-600 hover:text-blue-800">
+📊 cursor.com/analytics
+</a>
+</div>
+
+---
+
+# Stats Github
+
+<div class="grid grid-cols-2 gap-6 mt-4">
+
+<div>
+<h3 class="text-xl font-bold mb-3"> Activity Metrics</h3>
+<div class="bg-blue-50 p-3 rounded-lg text-sm space-y-2">
+<p><strong>335</strong> Pull Requests</p>
+<p><strong>811</strong> Commits</p>
+<p><strong>26.1</strong> PRs/week velocity</p>
+<p><strong>10.2</strong> hours avg merge time</p>
+<p><strong>14</strong> contributors (9 active)</p>
+</div>
+</div>
+
+<div>
+<h3 class="text-xl font-bold mb-3">  CI/CD Performance</h3>
+<div class="bg-green-50 p-3 rounded-lg text-sm space-y-2">
+<p><strong>890</strong> workflow runs</p>
+<p><strong>90%</strong> success rate</p>
+<p><strong>10.5</strong> min avg duration</p>
+<p><strong>52</strong> active workflows</p>
+</div>
+</div>
+
+</div>
+
+<div class="mt-4 p-3 bg-yellow-50 rounded-lg">
+<h4 class="font-bold mb-2"> Vibe Coding Impact</h4>
+<ul class="text-sm space-y-1">
+<li>  High PR velocity (26.1/week) </li>
+<li>  Quick merge times (10.2 hrs) </li>
+<li>  90% CI/CD success </li>
+</ul>
+</div>
+
+<div class="text-center text-xs text-gray-500 mt-3">
+Data from last 90 days across 7 repositories
+</div>
+
+---
+
+# Quality Results
+
+<div class="mt-4">
+
+<h3 class="text-xl font-bold mb-4">Timeline: 2.5 months</h3>
+
+<div class="space-y-2 text-sm">
+
+<div class="p-2 bg-green-50 rounded">
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
+</div>
+
+<div class="p-2 bg-purple-50 rounded">
+<p class="font-semibold">🚀 1 semi-production product - Newsletter with human in the loop</p>
+</div>
+
+<div class="p-2 bg-gray-50 rounded">
+<p class="font-semibold">🔬 3 POCs - Customer interviews & testing & sidelines</p>
+</div>
+
+<div class="p-2 bg-blue-50 rounded">
+<p class="font-semibold">🔍 1 internal LLM evaluation framework based on <a href="https://github.com/langfuse/langfuse" target="_blank" class="text-blue-600 hover:text-blue-800">Langfuse</a></p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Non tech folks
+
+<div class="mt-2">
+
+<div class="text-xl font-bold mb-4 text-center">
+For anyone without code editor - we encourage to use vibe coding a lot! 🚀
+</div>
+
+<div class="grid grid-cols-4 gap-3 mt-4">
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
+</div>
+
+</div>
+
+
+<div v-click class="mt-3 p-2 bg-gray-100 rounded">
+<p class="text-sm font-bold">📋 Example: IP reusability. How this works? UI updates & prototyping</p>
+<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
+</div>
+
+</div>
+
+---
+
+# Pattern 1: Slack
+
+<div class="mt-4">
+
+<div class="text-lg mb-6">
+<strong>Just message Cursor in Slack like you would message your colleagues!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Join **#ml-team-vibe-coding** slack channel
+2. Write `@Cursor repo=<ask if need help> "Write what you want to do"`
+3. Wait till green checkmark ✅
+4. Ask eng to review & see preview of your changes
+5. Iterate (my conversations are very very long running)
+
+</div>
+
+<div v-click class="mt-6 p-4 bg-gray-100 rounded-lg">
+
+### 💡 Example (copy this):
+
+```
+@Cursor repo=axl-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the X team?
+Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
+```
+
+</div>
+
+</div>
+
+---
+
+# Pattern 2: Web
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Use Cursor's web interface for a more visual experience!</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate
+
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-2.1.png" alt="Cursor Agents Dashboard" class="w-96 rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+---
+
+# Pattern 3: Mobile
+
+<div class="flex gap-8 mt-4">
+
+<div class="flex-1">
+
+<div class="text-lg mb-6">
+<strong>Code on the go - no laptop required! 📱</strong>
+</div>
+
+<div v-click>
+
+### 📝 Process:
+1. Go to https://cursor.com/agents on your phone
+2. Select repo you want to work on (usually one per project)
+3. Ask in chat style what you want
+4. Ask eng to review & see preview of your changes
+5. Iterate - even from the beach! 🏖️
+
+</div>
+
+<div v-click class="mt-4 p-3 bg-green-50 rounded-lg">
+<p class="text-sm">💡 Perfect for quick fixes, reviewing code, or when inspiration strikes during your commute!</p>
+</div>
+
+</div>
+
+<div v-click class="flex-shrink-0">
+<img src="/images/pattern-3.1.png" alt="Cursor Mobile Interface" class="w-64 rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+---
+layout: section
+---
+
+# Lessons
+
+<div class="grid grid-cols-4 gap-6 mt-6">
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Accelerate & Best practices</h3>
+<a href="https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339" target="_blank">
+<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Agent on a leash</h3>
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">
+<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Better abstractions</h3>
+<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank">
+<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Real cost is ownership</h3>
+<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank">
+<div class="flex items-center justify-center h-32 p-4 bg-yellow-50 rounded hover:bg-yellow-100 transition-colors">
+<p class="text-sm font-semibold">Writing: 20%<br/>Maintaining: 80%</p>
+</div>
+</a>
+</div>
+
+</div>

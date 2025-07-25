@@ -52,15 +52,18 @@ transition: fade-out
 <v-clicks>
 
 <div>
-<h3 class="text-2xl mb-2">Context</h3>
+<h3 class="text-2xl mb-2">🌟 Gentle intro</h3>
+<p class="text-gray-400">Market review of vibe coding tools and capabilities</p>
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">AXL Case</h3>
+<h3 class="text-2xl mb-2">🌉 Mind the GAP</h3>
+<p class="text-gray-400">What is the gap between real product & vibe coded solutions</p>
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">Lessons</h3>
+<h3 class="text-2xl mb-2">🏢 AXL</h3>
+<p class="text-gray-400">How do we use it and how should we use it at AXL</p>
 </div>
 
 </v-clicks>
@@ -72,26 +75,30 @@ layout: center
 class: text-center
 ---
 
-# Vibe coding!
+# Why not AXL standard template?
 
-<div class="flex items-center justify-center gap-8 mt-8">
-  <div>
-    <div class="text-3xl mb-4">
-      This is vibe coded presentation
-    </div>
+<div class="text-3xl mt-12">
+Because this presentation was vibe coded as well! 🎉
+</div>
+
+
+---
+
+<div style="display: flex; flex-direction: column; gap: 20px; justify-content: center; align-items: center; height: 100%;">
+  <div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: center;">
+    <img src="../images/imaga-1.1.1.jpg" style="max-height: 70vh; max-width: 45%;" />
+    <img src="../images/imaga-1.1.2.jpg" style="max-height: 70vh; max-width: 45%;" />
   </div>
-  <div>
-    <a href="https://www.youtube.com/shorts/64TNGvCoegE" target="_blank">
-      <img src="/images/intro.png" alt="Vibe Coding" class="w-96 rounded-lg shadow-lg" />
-    </a>
-  </div>
+  <div class="text-2xl mt-4">because it was vibe coded!</div>
 </div>
 
 ---
 layout: section
 ---
 
-# Context
+# Gentle intro
+
+Market review
 
 ---
 
@@ -108,10 +115,57 @@ layout: section
   </div>
 </div>
 
+---
+
+# LLMs are good at code
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
+  <div style="text-align: center;">
+    <img src="../images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://github.com/swe-bench/SWE-bench" target="_blank">github.com/swe-bench/SWE-bench</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="../images/image-2.2.png" alt="Aider Leaderboards" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://aider.chat/docs/leaderboards/" target="_blank">aider.chat/docs/leaderboards/</a>
+  </div>
+</div>
 
 ---
 
-# Products
+# Devs are using it a lot!
+
+<div style="text-align: center; margin-bottom: 16px;">
+  <img src="../images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
+</div>
+
+---
+
+# Market reacts
+
+<div style="text-align: center; margin-bottom: 16px;">
+  <img src="../images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
+</div>
+
+---
+
+# Sometimes in a bad way
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
+  <div style="text-align: center;">
+    <img src="../images/image-5.1.png" alt="Thoughts On A Month With Devin" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://www.answer.ai/posts/2025-01-08-devin.html" target="_blank">answer.ai/posts/2025-01-08-devin.html</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="../images/image-5.2.png" alt="Debunking Devin YouTube" style="width:300px; display:block; margin-bottom:8px;" />
+    <a href="https://www.youtube.com/watch?v=tNmgmwEtoWE" target="_blank">youtube.com/watch?v=tNmgmwEtoWE</a>
+  </div>
+</div>
+
+---
+
+# But usually with good products
 
 <div class="grid grid-cols-3 gap-6 mt-8">
 
@@ -132,9 +186,6 @@ GitHub's AI pair programmer
 
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer editor
-
-**[Kiro](https://kiro.dev/)**  
-Agentic IDE for production code
 
 </div>
 
@@ -167,7 +218,7 @@ Google's AI in terminal
 
 <div>
 
-### 🎨 Apps
+### 🎨 Products
 
 <div class="bg-pink-50 p-4 rounded-lg">
 
@@ -195,7 +246,7 @@ Click on any tool to learn more
 
 ---
 
-# Products
+# But usually with good products
 
 <div class="relative">
 
@@ -219,9 +270,6 @@ GitHub's AI pair programmer
 
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer
-
-**[Kiro](https://kiro.dev/)**  
-Agentic IDE for production
 
 </div>
 
@@ -254,7 +302,7 @@ Google's AI in terminal
 
 <div>
 
-### 🎨 Apps
+### 🎨 Products
 
 <div class="bg-pink-50 p-3 rounded-lg text-sm">
 
@@ -282,14 +330,282 @@ Google's AI workspace
 <span class="mx-2">→</span>
 <span class="text-blue-500">Agents</span>
 <span class="mx-2">←</span>
-<span class="text-pink-500">Apps</span>
+<span class="text-pink-500">Products</span>
 <span class="mx-2">→</span>
 <span class="text-green-500">Editors</span>
 </div>
 
 <div class="text-center text-xs text-gray-600 mt-2">
-The ecosystem is interconnected - Apps feed both Editors and Agents, Editors integrate with Agents
+The ecosystem is interconnected - Products feed both Editors and Agents, Editors integrate with Agents
 </div>
+
+</div>
+
+---
+
+
+# Ideas to try with Bolt.new
+
+<div class="mt-4">
+
+<div v-click>
+
+### 💀 DeathClock.lol
+
+A dark humor app calculating death dates based on lifestyle. Features sarcastic reminders and mortality quotes.
+
+```
+Build a death countdown app with dark humor. Users input lifestyle data (smoking, exercise, diet, stress) and get an estimated death date with sassy daily reminders and mortality-themed motivational quotes.
+```
+
+</div>
+
+<div v-click class="mt-6">
+
+### 🔮 FortuneCookie.wtf
+
+Gen Z fortune cookies with meme culture, existential dread, and chaos predictions.
+
+```
+Create a Gen Z fortune cookie generator. Mix existential dread with meme culture. Include features like daily chaos predictions, shareable fortune cards with wild backgrounds, and a "vibe check" mode that roasts users.
+```
+
+</div>
+
+</div>
+
+<div v-click class="mt-6 text-center text-sm">
+Copy a prompt and paste into Bolt.new to build in minutes!
+</div>
+
+---
+layout: section
+---
+
+# Mind the GAP
+
+What is the gap between real product & vibe coded solutions
+
+---
+
+# How wide is the gap?
+
+<div class="grid grid-cols-2 gap-4 mt-2">
+
+<div class="text-center">
+<img src="/images/gap-1.1.png" alt="Mind the Gap" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
+</div>
+
+<div class="text-center">
+<img src="/images/gap-1.2.png" alt="AI Coding vs Open Source" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
+<a href="https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/" target="_blank" class="text-xs text-blue-500 hover:underline">
+pivot-to-ai.com
+</a>
+</div>
+
+</div>
+
+<div class="mt-6">
+
+<div v-click>
+<h3 class="text-xl mb-4">❌ "Good at coding" ≠ "Good Software Engineer"</h3>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-4">✅ "Solving problems with code" = "Good Software Engineer"</h3>
+</div>
+
+<div v-click>
+<p class="text-lg text-gray-600 italic mt-6">Sometimes "Best code you don't have to write"</p>
+</div>
+
+</div>
+
+---
+
+# Cost of software
+
+<div class="mt-8">
+
+<h2 class="text-2xl text-center mb-8">The real cost of software is not writing it, it's ownership</h2>
+
+<div class="grid grid-cols-2 gap-8">
+
+<div>
+<div v-click>
+<h3 class="text-xl mb-4 text-blue-500">Real Costs</h3>
+<ul class="space-y-2 text-lg">
+<li>Infrastructure</li>
+<li>Support & maintenance</li>
+<li>Security updates</li>
+<li>Monitoring & observability</li>
+<li>Upgrades & migrations</li>
+</ul>
+</div>
+</div>
+
+<div class="flex items-center">
+<div v-click class="bg-gray-50 p-4 rounded-lg">
+<h4 class="text-lg font-semibold mb-2">Reference:</h4>
+<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank" class="text-blue-600 hover:underline">
+"The Best Code is No Code At All"
+</a>
+<p class="text-sm text-gray-600 mt-2">- Jeff Atwood, Coding Horror</p>
+</div>
+</div>
+
+</div>
+
+<div v-click class="mt-12 p-6 bg-yellow-50 rounded-lg text-center">
+<p class="text-2xl font-bold">Writing code: ~20% | Maintaining it: ~80%</p>
+<p class="text-lg text-gray-600 mt-2">Most of the cost comes AFTER the initial development</p>
+</div>
+
+</div>
+
+---
+
+# Better abstractions
+
+<div class="flex gap-6 items-center mt-2">
+
+<div class="flex-shrink-0">
+<img src="/images/gap-2.1.png" alt="LLMs and Abstraction Levels" class="h-96 rounded-lg shadow-lg" />
+</div>
+
+<div class="flex-1">
+
+<div v-click>
+<h3 class="text-2xl mb-4">Not just UP ↑</h3>
+<h3 class="text-2xl mb-6">But SIDEWAYS → into non-determinism</h3>
+</div>
+
+<div v-click class="text-sm">
+<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank" class="text-blue-500 hover:underline">
+Martin Fowler on LLMs & abstraction
+</a>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Accelerate for AI coding does not exist (yet)
+
+<div class="flex gap-6 items-center mt-4">
+
+<div class="flex-shrink-0">
+<img src="/images/gap-3.1.png" alt="Accelerate Book Cover" class="h-80 rounded-lg shadow-lg" />
+</div>
+
+<div class="flex-1">
+
+<div v-click>
+<p class="text-lg mb-4">There is fundamental research study about efficient engineering orgs</p>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
+<ul class="space-y-2 text-lg">
+<li>Continuous Delivery</li>
+<li>Architecture</li>
+<li>Product and Process</li>
+<li>Lean Management and Monitoring</li>
+<li>Culture</li>
+</ul>
+</div>
+
+<div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
+<p class="text-lg font-semibold">But in AI assistant development - they seem to require refresh</p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Best attempt: keeping agents on the leash
+
+<div class="mt-4">
+
+<div class="grid grid-cols-2 gap-4 mb-4">
+
+<div>
+<img src="/images/gap-4.1.png" alt="AI Human Verification Loop" class="w-full rounded-lg shadow-lg" />
+</div>
+
+<div>
+<img src="/images/gap-4.2.png" alt="Keeping Agents on Leash Example" class="w-full rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+<div v-click class="text-center mt-6">
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank" class="text-blue-500 hover:underline text-lg">
+🎥 Watch the full talk on YouTube
+</a>
+</div>
+
+</div>
+
+
+---
+
+# Best attempt: AWS Play Kiro
+
+<div class="mt-4">
+
+<div class="grid grid-cols-2 gap-6">
+
+<div class="text-center">
+<img src="/images/gap-5.1.png" alt="Introducing Kiro" class="w-full rounded-lg shadow-lg mb-2" />
+<a href="https://kiro.dev/blog/introducing-kiro/" target="_blank" class="text-sm text-blue-500 hover:underline">
+Introducing Kiro - A new agentic IDE
+</a>
+</div>
+
+<div class="text-center">
+<img src="/images/gap-5.2.png" alt="Project Management at Big Tech" class="w-full rounded-lg shadow-lg mb-2" />
+<a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/" target="_blank" class="text-sm text-blue-500 hover:underline">
+Project Management at Big Tech
+</a>
+</div>
+
+</div>
+
+<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg text-center">
+<p class="text-lg">Combining spec-driven development with AI agents for better production readiness</p>
+</div>
+
+</div>
+
+
+
+---
+
+
+# Rule of thumb
+
+<div class="mt-8 text-lg">
+
+<ul class="space-y-4">
+
+<li v-click>POC/Demo - Amazing!</li>
+
+<li v-click>Keep agents on the leash</li>
+
+<li v-click>The more project complexity → The harder to do anything</li>
+
+<li v-click>Scope down</li>
+
+<li v-click>Less code is better</li>
+
+<li v-click>Specs (one pager, etc) - must!</li>
+
+</ul>
 
 </div>
 
@@ -297,77 +613,50 @@ The ecosystem is interconnected - Apps feed both Editors and Agents, Editors int
 layout: section
 ---
 
-# AXL Case
+# AXL way
+
+How do we use it and how should we use it at AXL
 
 ---
 
-# ML team setup
-
-<div class="grid grid-cols-2 gap-4 mt-2">
-
-<div class="space-y-2">
-<div>
-<img src="../images/axl-1.1.png" alt="AXL Launch Announcement" class="w-full rounded shadow mb-1" style="max-height: 200px; object-fit: contain;" />
-<a href="https://www.linkedin.com/posts/tovi-grossman-40430166_today-im-thrilled-to-share-the-public-launch-activity-7340741771095678980-_Q0W/" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
-AXL Launch
-</a>
-</div>
-
-<div>
-<img src="../images/axl-1.2.png" alt="Dentons AXL Partnership" class="w-full rounded shadow mb-1" style="max-height: 120px; object-fit: contain;" />
-<a href="https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/june/dentons-and-axl-announce-strategic-partnership-to-advance-legal-innovation-with-ai" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
-Dentons Partnership
-</a>
-</div>
-</div>
-
-<div class="flex items-center">
-<div>
-<h3 class="text-lg font-bold mb-2">New Venture Studio in Toronto focused on HCI</h3>
-<p class="text-sm mb-3">(Human Computer Interaction)</p>
-
-<div class="text-sm">
-<p class="font-semibold mb-2">Goals of ML team:</p>
-<ul class="space-y-1 ml-3">
-<li> Build prototypes</li>
-<li> Work with portfolio companies</li>
-<li> Collaborate with corporate partners</li>
-</ul>
-</div>
-</div>
-</div>
-
-</div>
-
----
-
-# Current Flow
-
-<div class="grid grid-cols-2 gap-8 mt-4">
-
-<div>
-<h3 class="text-2xl font-bold mb-4">ML team</h3>
-
-<ul class="space-y-2 text-lg">
-<li> 4 MScAC interns</li>
-<li> 1 full stack</li>
-<li> 2 designers</li>
-<li> 1 ML advisor </li>
-</ul>
+# Pre-requisites
 
 <div class="mt-6">
-<p class="text-base mt-2">✓ Interview checks for AI usage</p>
+
+**Each project = Code + One Pager + Running version**
+
+<div class="grid grid-cols-2 gap-8 mt-6 text-sm">
+
+<div v-click>
+
+### 📁 GitHub - Code Storage
+- **REPO**: Specific code location for project
+- **PR (Pull Request)**: Atomic set of work
+  - Can be reviewed ✓
+  - Can be accepted ✅
+  - Can be rejected ❌
+- **REPO updated via PR**
+
 </div>
+
+<div v-click>
+
+### 🚀 Automation & Access
+- **CI/CD**: Automation to move updated code to live
+- **Deployment**: Where you access it
+  - Railway in our case 🚂
+
 </div>
 
+</div>
 
+</div>
 
-<div>
-<h3 class="text-2xl font-bold mb-4">Process</h3>
+---
 
-<p class="text-lg font-semibold mb-4">Each project = Code + One Pager + Deployment</p>
-<p class="text-base mb-4">Most projects: LLM + Design</p>
-<p class="text-base mb-4">AI coding tools: Cursor Team Plan</p>
+# Our setup
+
+<div class="mt-8">
 
 ```mermaid
 graph LR
@@ -383,119 +672,52 @@ graph LR
 
 </div>
 
-</div>
-
-<div class="text-center text-sm text-gray-600 mt-4">
-📢 I am hiring for my full-time replacement: ML Lead / Head of AI
-</div>
-
 ---
 
-# Stats Cursors
+# Cursor stats
 
-<div class="grid grid-cols-2 gap-4 mt-4">
+<div class="flex items-center justify-center gap-8 mt-6">
 
-<div class="text-center">
-<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
+<div>
+<img src="/images/stats-1.1.png" alt="Cursor Analytics Overview" class="w-96" />
 </div>
 
-<div class="text-center">
-<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
+<div>
+<img src="/images/stats-1.4.png" alt="Cursor Analytics Details" class="w-48" />
 </div>
 
 </div>
 
-<div class="text-center mt-4">
-<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
-</div>
-
-<div class="text-center mt-4">
-<a href="https://cursor.com/analytics" target="_blank" class="text-blue-600 hover:text-blue-800">
-📊 cursor.com/analytics
+<div class="mt-6 text-center text-lg">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-500 hover:text-blue-700 hover:underline font-semibold">
+📊 View full analytics at cursor.com/analytics →
 </a>
 </div>
 
 ---
 
-# Stats Github
+# Team opinion
 
-<div class="grid grid-cols-2 gap-6 mt-4">
+<div class="text-center mt-16">
 
-<div>
-<h3 class="text-xl font-bold mb-3"> Activity Metrics</h3>
-<div class="bg-blue-50 p-3 rounded-lg text-sm space-y-2">
-<p><strong>335</strong> Pull Requests</p>
-<p><strong>811</strong> Commits</p>
-<p><strong>26.1</strong> PRs/week velocity</p>
-<p><strong>10.2</strong> hours avg merge time</p>
-<p><strong>14</strong> contributors (9 active)</p>
-</div>
-</div>
+<div class="text-4xl mb-8">🎤</div>
 
-<div>
-<h3 class="text-xl font-bold mb-3">  CI/CD Performance</h3>
-<div class="bg-green-50 p-3 rounded-lg text-sm space-y-2">
-<p><strong>890</strong> workflow runs</p>
-<p><strong>90%</strong> success rate</p>
-<p><strong>10.5</strong> min avg duration</p>
-<p><strong>52</strong> active workflows</p>
-</div>
-</div>
+<h2 class="text-3xl mb-8">Let's share our experience about vibe coding with Cursor</h2>
 
-</div>
-
-<div class="mt-4 p-3 bg-yellow-50 rounded-lg">
-<h4 class="font-bold mb-2"> Vibe Coding Impact</h4>
-<ul class="text-sm space-y-1">
-<li>  High PR velocity (26.1/week) </li>
-<li>  Quick merge times (10.2 hrs) </li>
-<li>  90% CI/CD success </li>
-</ul>
-</div>
-
-<div class="text-center text-xs text-gray-500 mt-3">
-Data from last 90 days across 7 repositories
-</div>
-
----
-
-# Quality Results
-
-<div class="mt-4">
-
-<h3 class="text-xl font-bold mb-4">Timeline: 2.5 months</h3>
-
-<div class="space-y-2 text-sm">
-
-<div class="p-2 bg-green-50 rounded">
-<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
-</div>
-
-<div class="p-2 bg-purple-50 rounded">
-<p class="font-semibold">🚀 1 semi-production product - Newsletter with human in the loop</p>
-</div>
-
-<div class="p-2 bg-gray-50 rounded">
-<p class="font-semibold">🔬 3 POCs - Customer interviews & testing & sidelines</p>
-</div>
-
-<div class="p-2 bg-blue-50 rounded">
-<p class="font-semibold">🔍 1 internal LLM evaluation framework based on <a href="https://github.com/langfuse/langfuse" target="_blank" class="text-blue-600 hover:text-blue-800">Langfuse</a></p>
-</div>
-
+<div class="text-xl text-gray-400">
+What worked? What didn't? What surprised you?
 </div>
 
 </div>
 
 ---
 
-# Non tech folks
+
+# Ideal state
 
 <div class="mt-2">
 
-<div class="text-xl font-bold mb-4 text-center">
-For anyone without code editor - we encourage to use vibe coding a lot! 🚀
-</div>
+<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
 
 <div class="grid grid-cols-4 gap-3 mt-4">
 
@@ -521,9 +743,16 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 
 </div>
 
+<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
+<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
+<a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
+[AXL JOIN LINK]
+</a>
+<p class="text-xs text-gray-600">$40/month per seat</p>
+</div>
 
 <div v-click class="mt-3 p-2 bg-gray-100 rounded">
-<p class="text-sm font-bold">📋 Example: IP reusability. How this works? UI updates & prototyping</p>
+<p class="text-sm font-bold">📋 Example: Tovi's IP request</p>
 <p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
 </div>
 
@@ -631,41 +860,43 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 ---
-layout: section
----
 
-# Lessons
+# Ideal state
 
-<div class="grid grid-cols-4 gap-6 mt-6">
+<div class="mt-2">
 
-<div class="text-center">
-<h3 class="text-lg font-bold mb-3">Accelerate & Best practices</h3>
-<a href="https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339" target="_blank">
-<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
-</a>
+<h2 class="text-xl text-center mb-4">I want everyone from AXL to contribute code!</h2>
+
+<div class="grid grid-cols-4 gap-3 mt-4">
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
 </div>
 
-<div class="text-center">
-<h3 class="text-lg font-bold mb-3">Agent on a leash</h3>
-<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">
-<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
-</a>
+<div v-click class="text-center">
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
 </div>
 
-<div class="text-center">
-<h3 class="text-lg font-bold mb-3">Better abstractions</h3>
-<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank">
-<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
-</a>
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
 </div>
 
-<div class="text-center">
-<h3 class="text-lg font-bold mb-3">Real cost is ownership</h3>
-<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank">
-<div class="flex items-center justify-center h-32 p-4 bg-yellow-50 rounded hover:bg-yellow-100 transition-colors">
-<p class="text-sm font-semibold">Writing: 20%<br/>Maintaining: 80%</p>
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
 </div>
+
+</div>
+
+<div v-click class="mt-4 p-2 bg-blue-50 rounded text-center">
+<p class="text-sm font-bold">🎯 Join AXL Cursor Team</p>
+<a href="#" target="_blank" class="text-xs text-blue-600 hover:underline">
+[AXL JOIN LINK]
 </a>
+<p class="text-xs text-gray-600">$40/month per seat</p>
 </div>
 
 </div>
