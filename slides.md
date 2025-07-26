@@ -387,12 +387,13 @@ Copy a prompt and paste into Bolt.new to build in minutes!
 </div>
 
 ---
-layout: section
----
 
-# Mind the GAP
-
-What is the gap between real product & vibe coded solutions
+<div class="w-full h-full flex items-center justify-center relative">
+  <img src="../images/gap.png" class="w-full h-full object-contain" />
+  <div class="absolute top-32 left-0 right-0 text-center">
+    <h1 class="text-6xl font-bold text-white drop-shadow-lg">Mind the GAP</h1>
+  </div>
+</div>
 
 ---
 
