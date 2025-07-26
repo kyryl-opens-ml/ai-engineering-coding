@@ -529,59 +529,61 @@ Project Management at Big Tech
 
 </div>
 
-
-
----
-
-
 ---
 layout: section
 ---
 
-# AXL way
+# Real life example
 
 How do we use it and how should we use it at AXL
 
 ---
 
-# Pre-requisites
+# Setup
 
-<div class="mt-6">
+<div class="flex items-center">
+<div>
+<h3 class="text-lg font-bold mb-2">New Venture Studio in Toronto focused on HCI</h3>
+<p class="text-sm mb-3">(Human Computer Interaction)</p>
 
-**Each project = Code + One Pager + Running version**
-
-<div class="grid grid-cols-2 gap-8 mt-6 text-sm">
-
-<div v-click>
-
-### 📁 GitHub - Code Storage
-- **REPO**: Specific code location for project
-- **PR (Pull Request)**: Atomic set of work
-  - Can be reviewed ✓
-  - Can be accepted ✅
-  - Can be rejected ❌
-- **REPO updated via PR**
-
+<div class="text-sm">
+<p class="font-semibold mb-2">Goal to build inhouse team for Venture Studio:</p>
+<ul class="space-y-1 ml-3">
+<li> Build prototypes</li>
+<li> Work with portfolio companies</li>
+<li> Collaborate with corporate partners</li>
+</ul>
 </div>
-
-<div v-click>
-
-### 🚀 Automation & Access
-- **CI/CD**: Automation to move updated code to live
-- **Deployment**: Where you access it
-  - Railway in our case 🚂
-
 </div>
-
-</div>
-
 </div>
 
 ---
 
-# Our setup
+# Current Flow
 
-<div class="mt-8">
+<div class="grid grid-cols-2 gap-8 mt-4">
+
+<div>
+<h3 class="text-2xl font-bold mb-4">ML team</h3>
+
+<ul class="space-y-2 text-lg">
+<li> 4 MScAC interns</li>
+<li> 1 full stack</li>
+<li> 2 designers</li>
+<li> 1 ML advisor </li>
+</ul>
+
+<div class="mt-6">
+<p class="text-base mt-2">✓ Interview checks for AI usage</p>
+</div>
+</div>
+
+<div>
+<h3 class="text-2xl font-bold mb-4">Process</h3>
+
+<p class="text-lg font-semibold mb-4">Each project = Code + One Pager + Deployment</p>
+<p class="text-base mb-4">Most projects: LLM + Design</p>
+<p class="text-base mb-4">AI coding tools: Cursor Team Plan</p>
 
 ```mermaid
 graph LR
@@ -596,6 +598,14 @@ graph LR
 ```
 
 </div>
+
+</div>
+
+<div class="text-center text-sm text-gray-600 mt-4">
+📢 I am hiring for my full-time replacement: ML Lead / Head of AI
+</div>
+
+
 
 ---
 
@@ -721,22 +731,6 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 <div v-click class="flex-shrink-0">
 <img src="/images/pattern-3.1.png" alt="Cursor Mobile Interface" class="w-64 rounded-lg shadow-lg" />
-</div>
-
-</div>
-
----
-
-# Share your opinions
-
-<div class="text-center mt-16">
-
-<div class="text-4xl mb-8">💭</div>
-
-<h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
-
-<div class="text-xl text-gray-400">
-What worked? What didn't? What surprised you?
 </div>
 
 </div>
@@ -871,5 +865,19 @@ layout: section
 </div>
 
 ---
+
+# Share your opinions
+
+<div class="text-center mt-16">
+
+<div class="text-4xl mb-8">💭</div>
+
+<h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
+
+<div class="text-xl text-gray-400">
+What worked? What didn't? What surprised you?
+</div>
+
+</div>
 
 
