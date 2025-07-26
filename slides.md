@@ -352,9 +352,7 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 
 <div v-click>
 
-### Mini Salesforce CRM
-
-A customer relationship management system for small businesses.
+### <a href="https://magical-toffee-c28548.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Mini Salesforce CRM</a>
 
 ```
 Build a CRM like Salesforce but simpler. Include customer profiles, deal pipeline with drag-and-drop stages, contact management, activity tracking, and sales dashboard with charts. Add lead scoring, email templates, and task reminders for follow-ups.
@@ -364,9 +362,7 @@ Build a CRM like Salesforce but simpler. Include customer profiles, deal pipelin
 
 <div v-click class="mt-6">
 
-### Pet Mood Predictor
-
-AI that predicts your pet's mood based on ridiculous factors.
+### <a href="https://remarkable-marigold-ae2b03.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Pet Mood Predictor</a>
 
 ```
 Create a pet mood prediction app that uses "advanced AI" to predict if your pet is happy, plotting world domination, or judging your life choices. Input factors like room temperature, your outfit, what you had for breakfast, and lunar phase. Include mood charts, pet therapy recommendations, and a "pet translator" feature.
@@ -376,9 +372,7 @@ Create a pet mood prediction app that uses "advanced AI" to predict if your pet 
 
 <div v-click class="mt-6">
 
-### Pizza Conspiracy Generator
-
-Uncover the truth behind your pizza delivery delays with wild theories.
+### <a href="https://statuesque-hotteok-83261c.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Pizza Conspiracy Generator</a>
 
 ```
 Build a pizza conspiracy theory generator. Users input their delivery time, toppings, and weather conditions to get elaborate conspiracy theories about why their pizza is late. Include CIA involvement, alien abductions, secret pizza illuminati, and a "evidence board" with red strings connecting random facts. Add a pizza tracker that gets increasingly paranoid.
