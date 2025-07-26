@@ -501,68 +501,6 @@ Martin Fowler on LLMs & abstraction
 
 ---
 
-# Accelerate for AI coding does not exist (yet)
-
-<div class="flex gap-6 items-center mt-4">
-
-<div class="flex-shrink-0">
-<img src="/images/gap-3.1.png" alt="Accelerate Book Cover" class="h-80 rounded-lg shadow-lg" />
-</div>
-
-<div class="flex-1">
-
-<div v-click>
-<p class="text-lg mb-4">There is fundamental research study about efficient engineering orgs</p>
-</div>
-
-<div v-click>
-<h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
-<ul class="space-y-2 text-lg">
-<li>Continuous Delivery</li>
-<li>Architecture</li>
-<li>Product and Process</li>
-<li>Lean Management and Monitoring</li>
-<li>Culture</li>
-</ul>
-</div>
-
-<div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
-<p class="text-lg font-semibold">But in AI assistant development - they seem to require refresh</p>
-</div>
-
-</div>
-
-</div>
-
----
-
-# Best attempt: keeping agents on the leash
-
-<div class="mt-4">
-
-<div class="grid grid-cols-2 gap-4 mb-4">
-
-<div>
-<img src="/images/gap-4.1.png" alt="AI Human Verification Loop" class="w-full rounded-lg shadow-lg" />
-</div>
-
-<div>
-<img src="/images/gap-4.2.png" alt="Keeping Agents on Leash Example" class="w-full rounded-lg shadow-lg" />
-</div>
-
-</div>
-
-<div v-click class="text-center mt-6">
-<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank" class="text-blue-500 hover:underline text-lg">
-🎥 Watch the full talk on YouTube
-</a>
-</div>
-
-</div>
-
-
----
-
 # Best attempt: AWS Play Kiro
 
 <div class="mt-4">
@@ -595,28 +533,6 @@ Project Management at Big Tech
 
 ---
 
-
-# Rule of thumb
-
-<div class="mt-8 text-lg">
-
-<ul class="space-y-4">
-
-<li v-click>POC/Demo - Amazing!</li>
-
-<li v-click>Keep agents on the leash</li>
-
-<li v-click>The more project complexity → The harder to do anything</li>
-
-<li v-click>Scope down</li>
-
-<li v-click>Less code is better</li>
-
-<li v-click>Specs (one pager, etc) - must!</li>
-
-</ul>
-
-</div>
 
 ---
 layout: section
@@ -821,6 +737,135 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 <div class="text-xl text-gray-400">
 What worked? What didn't? What surprised you?
+</div>
+
+</div>
+
+---
+layout: section
+---
+
+# Lessons
+
+---
+
+# Rule of thumb
+
+<div class="mt-8 text-lg">
+
+<ul class="space-y-4">
+
+<li v-click>POC/Demo - Amazing!</li>
+
+<li v-click>Keep agents on the leash</li>
+
+<li v-click>The more project complexity → The harder to do anything</li>
+
+<li v-click>Scope down</li>
+
+<li v-click>Less code is better</li>
+
+<li v-click>Specs (one pager, etc) - must!</li>
+
+</ul>
+
+</div>
+
+---
+
+# Accelerate for AI coding does not exist (yet)
+
+<div class="flex gap-6 items-center mt-4">
+
+<div class="flex-shrink-0">
+<img src="/images/gap-3.1.png" alt="Accelerate Book Cover" class="h-80 rounded-lg shadow-lg" />
+</div>
+
+<div class="flex-1">
+
+<div v-click>
+<p class="text-lg mb-4">There is fundamental research study about efficient engineering orgs</p>
+</div>
+
+<div v-click>
+<h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
+<ul class="space-y-2 text-lg">
+<li>Continuous Delivery</li>
+<li>Architecture</li>
+<li>Product and Process</li>
+<li>Lean Management and Monitoring</li>
+<li>Culture</li>
+</ul>
+</div>
+
+<div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
+<p class="text-lg font-semibold">But in AI assistant development - they seem to require refresh</p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Best attempt: keeping agents on the leash
+
+<div class="mt-4">
+
+<div class="grid grid-cols-2 gap-4 mb-4">
+
+<div>
+<img src="/images/gap-4.1.png" alt="AI Human Verification Loop" class="w-full rounded-lg shadow-lg" />
+</div>
+
+<div>
+<img src="/images/gap-4.2.png" alt="Keeping Agents on Leash Example" class="w-full rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+<div v-click class="text-center mt-6">
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank" class="text-blue-500 hover:underline text-lg">
+🎥 Watch the full talk on YouTube
+</a>
+</div>
+
+</div>
+
+---
+
+# Summary
+
+<div class="grid grid-cols-4 gap-6 mt-6">
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Accelerate & Best practices</h3>
+<a href="https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339" target="_blank">
+<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Agent on a leash</h3>
+<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">
+<img src="/images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Better abstractions</h3>
+<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank">
+<img src="/images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+</a>
+</div>
+
+<div class="text-center">
+<h3 class="text-lg font-bold mb-3">Real cost is ownership</h3>
+<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank">
+<div class="flex items-center justify-center h-32 p-4 bg-yellow-50 rounded hover:bg-yellow-100 transition-colors">
+<p class="text-sm font-semibold">Writing: 20%<br/>Maintaining: 80%</p>
+</div>
+</a>
 </div>
 
 </div>
