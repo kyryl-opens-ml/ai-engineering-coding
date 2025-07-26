@@ -76,13 +76,13 @@ transition: fade-out
 </div>
 
 ---
-layout: center
-class: text-center
----
 
-# Gentle intro
-
-Market review
+<div class="w-full h-full flex items-center justify-center relative">
+  <img src="../images/gentle-intro.png" class="w-full h-full object-contain" />
+  <div class="absolute top-8 left-0 right-0 text-center">
+    <h1 class="text-6xl font-bold text-white drop-shadow-lg">Gentle intro</h1>
+  </div>
+</div>
 
 ---
 
@@ -171,6 +171,9 @@ GitHub's AI pair programmer
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer editor
 
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production code
+
 </div>
 
 </div>
@@ -196,13 +199,16 @@ Anthropic's coding assistant
 **[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
 Google's AI in terminal
 
+**[Devin](https://devin.ai/)**  
+AI software engineer
+
 </div>
 
 </div>
 
 <div>
 
-### 🎨 Products
+### 🎨 Apps
 
 <div class="bg-pink-50 p-4 rounded-lg">
 
@@ -217,6 +223,9 @@ UI generation by Vercel
 
 **[Gemini Canvas](https://aistudio.google.com/)**  
 Google's AI workspace
+
+**[Spark](https://github.com/features/spark)**  
+Dream it. See it. Ship it.
 
 </div>
 
@@ -255,13 +264,16 @@ GitHub's AI pair programmer
 **[Zed](https://zed.dev/)**  
 High-performance multiplayer
 
+**[Kiro](https://kiro.dev/)**  
+Agentic IDE for production code
+
 </div>
 
 </div>
 
 <div>
 
-### 🤖 Agents
+### 🤖 Apps
 
 <div class="bg-blue-50 p-3 rounded-lg text-sm">
 
@@ -279,6 +291,9 @@ Anthropic's coding assistant
 
 **[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
 Google's AI in terminal
+
+**[Devin](https://devin.ai/)**  
+AI software engineer
 
 </div>
 
@@ -301,6 +316,9 @@ UI generation by Vercel
 
 **[Gemini Canvas](https://aistudio.google.com/)**  
 Google's AI workspace
+
+**[Spark](https://github.com/features/spark)**  
+Dream it. See it. Ship it.
 
 </div>
 
@@ -328,30 +346,42 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 ---
 
 
-# Ideas to try with Bolt.new
+# Examples with Bolt.new
 
 <div class="mt-4">
 
 <div v-click>
 
-### 💀 DeathClock.lol
+### Mini Salesforce CRM
 
-A dark humor app calculating death dates based on lifestyle. Features sarcastic reminders and mortality quotes.
+A customer relationship management system for small businesses.
 
 ```
-Build a death countdown app with dark humor. Users input lifestyle data (smoking, exercise, diet, stress) and get an estimated death date with sassy daily reminders and mortality-themed motivational quotes.
+Build a CRM like Salesforce but simpler. Include customer profiles, deal pipeline with drag-and-drop stages, contact management, activity tracking, and sales dashboard with charts. Add lead scoring, email templates, and task reminders for follow-ups.
 ```
 
 </div>
 
 <div v-click class="mt-6">
 
-### 🔮 FortuneCookie.wtf
+### Pet Mood Predictor
 
-Gen Z fortune cookies with meme culture, existential dread, and chaos predictions.
+AI that predicts your pet's mood based on ridiculous factors.
 
 ```
-Create a Gen Z fortune cookie generator. Mix existential dread with meme culture. Include features like daily chaos predictions, shareable fortune cards with wild backgrounds, and a "vibe check" mode that roasts users.
+Create a pet mood prediction app that uses "advanced AI" to predict if your pet is happy, plotting world domination, or judging your life choices. Input factors like room temperature, your outfit, what you had for breakfast, and lunar phase. Include mood charts, pet therapy recommendations, and a "pet translator" feature.
+```
+
+</div>
+
+<div v-click class="mt-6">
+
+### Pizza Conspiracy Generator
+
+Uncover the truth behind your pizza delivery delays with wild theories.
+
+```
+Build a pizza conspiracy theory generator. Users input their delivery time, toppings, and weather conditions to get elaborate conspiracy theories about why their pizza is late. Include CIA involvement, alien abductions, secret pizza illuminati, and a "evidence board" with red strings connecting random facts. Add a pizza tracker that gets increasingly paranoid.
 ```
 
 </div>
