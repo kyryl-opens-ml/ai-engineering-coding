@@ -605,28 +605,144 @@ graph LR
 📢 I am hiring for my full-time replacement: ML Lead / Head of AI
 </div>
 
+---
 
+# Stats Cursors
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+
+<div class="text-center">
+<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
+</div>
+
+<div class="text-center">
+<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
+</div>
+
+</div>
+
+<div class="text-center mt-4">
+<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
+</div>
+
+<div class="text-center mt-4">
+<a href="https://cursor.com/analytics" target="_blank" class="text-blue-600 hover:text-blue-800">
+📊 cursor.com/analytics
+</a>
+</div>
 
 ---
 
-# Cursor stats
+# Stats Github
 
-<div class="flex items-center justify-center gap-8 mt-6">
-
-<div>
-<img src="/images/stats-1.1.png" alt="Cursor Analytics Overview" class="w-96" />
-</div>
+<div class="grid grid-cols-2 gap-6 mt-4">
 
 <div>
-<img src="/images/stats-1.4.png" alt="Cursor Analytics Details" class="w-48" />
+<h3 class="text-xl font-bold mb-3"> Activity Metrics</h3>
+<div class="bg-blue-50 p-3 rounded-lg text-sm space-y-2">
+<p><strong>335</strong> Pull Requests</p>
+<p><strong>811</strong> Commits</p>
+<p><strong>26.1</strong> PRs/week velocity</p>
+<p><strong>10.2</strong> hours avg merge time</p>
+<p><strong>14</strong> contributors (9 active)</p>
+</div>
+</div>
+
+<div>
+<h3 class="text-xl font-bold mb-3">  CI/CD Performance</h3>
+<div class="bg-green-50 p-3 rounded-lg text-sm space-y-2">
+<p><strong>890</strong> workflow runs</p>
+<p><strong>90%</strong> success rate</p>
+<p><strong>10.5</strong> min avg duration</p>
+<p><strong>52</strong> active workflows</p>
+</div>
 </div>
 
 </div>
 
-<div class="mt-6 text-center text-lg">
-<a href="https://cursor.com/analytics" target="_blank" class="text-blue-500 hover:text-blue-700 hover:underline font-semibold">
-📊 View full analytics at cursor.com/analytics →
-</a>
+<div class="mt-4 p-3 bg-yellow-50 rounded-lg">
+<h4 class="font-bold mb-2"> Vibe Coding Impact</h4>
+<ul class="text-sm space-y-1">
+<li>  High PR velocity (26.1/week) </li>
+<li>  Quick merge times (10.2 hrs) </li>
+<li>  90% CI/CD success </li>
+</ul>
+</div>
+
+<div class="text-center text-xs text-gray-500 mt-3">
+Data from last 90 days across 7 repositories
+</div>
+
+---
+
+# Quality Results
+
+<div class="mt-4">
+
+<h3 class="text-xl font-bold mb-4">Timeline: 2.5 months</h3>
+
+<div class="space-y-2 text-sm">
+
+<div class="p-2 bg-green-50 rounded">
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
+</div>
+
+<div class="p-2 bg-purple-50 rounded">
+<p class="font-semibold">🚀 1 semi-production product - Newsletter with human in the loop</p>
+</div>
+
+<div class="p-2 bg-gray-50 rounded">
+<p class="font-semibold">🔬 3 POCs - Customer interviews & testing & sidelines</p>
+</div>
+
+<div class="p-2 bg-blue-50 rounded">
+<p class="font-semibold">🔍 1 internal LLM evaluation framework based on <a href="https://github.com/langfuse/langfuse" target="_blank" class="text-blue-600 hover:text-blue-800">Langfuse</a></p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Non tech folks
+
+<div class="mt-2">
+
+<div class="text-xl font-bold mb-4 text-center">
+For anyone without code editor - we encourage to use vibe coding a lot! 🚀
+</div>
+
+<div class="grid grid-cols-4 gap-3 mt-4">
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">💬</div>
+<p class="text-sm font-bold">From Slack!</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">📱</div>
+<p class="text-sm font-bold">From Mobile</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🌐</div>
+<p class="text-sm font-bold">From Web</p>
+</div>
+
+<div v-click class="text-center">
+<div class="text-2xl mb-1">🚫💻</div>
+<p class="text-sm font-bold">No Computer!</p>
+</div>
+
+</div>
+
+
+<div v-click class="mt-3 p-2 bg-gray-100 rounded">
+<p class="text-sm font-bold">📋 Example: IP reusability. How this works? UI updates & prototyping</p>
+<p class="text-xs text-gray-600">Try it 3 ways: Slack, Web, Mobile</p>
+</div>
+
 </div>
 
 ---
