@@ -63,12 +63,12 @@ transition: fade-out
 
 <div>
 <h3 class="text-2xl mb-2">Real use-case</h3>
-<p class="text-gray-400">How do we use it and how should we use it at AXL</p>
+<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
 </div>
 
 <div>
 <h3 class="text-2xl mb-2">Lessons</h3>
-<p class="text-gray-400">How do we use it and how should we use it at AXL</p>
+<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
 </div>
 
 </v-clicks>
@@ -273,7 +273,7 @@ Agentic IDE for production code
 
 <div>
 
-### 🤖 Apps
+### 🤖 Agents
 
 <div class="bg-blue-50 p-3 rounded-lg text-sm">
 
@@ -301,7 +301,7 @@ AI software engineer
 
 <div>
 
-### 🎨 Products
+### 🎨 Apps
 
 <div class="bg-pink-50 p-3 rounded-lg text-sm">
 
@@ -535,7 +535,7 @@ layout: section
 
 # Real life example
 
-How do we use it and how should we use it at AXL
+How do we use it and how should we use it at New Venture Studio
 
 ---
 
@@ -684,7 +684,7 @@ Data from last 90 days across 7 repositories
 <div class="space-y-2 text-sm">
 
 <div class="p-2 bg-green-50 rounded">
-<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.newventurestudio.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.newventurestudio.vc</a> - apply if you want funding</p>
 </div>
 
 <div class="p-2 bg-purple-50 rounded">
@@ -776,7 +776,7 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 ### 💡 Example (copy this):
 
 ```
-@Cursor repo=axl-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+@Cursor repo=newventurestudio-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
 Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the X team?
 Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
 ```
