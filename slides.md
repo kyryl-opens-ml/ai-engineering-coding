@@ -244,28 +244,19 @@ Click on any tool to learn more
 <div class="relative">
 
 <!-- Main grid with arrows overlay -->
-<div class="grid grid-cols-3 gap-4 mt-6">
+<div class="grid grid-cols-3 gap-2 mt-2">
 
 <div>
 
 ### ✏️ Editors
 
-<div class="bg-green-50 p-3 rounded-lg text-sm">
+<div class="bg-green-50 p-1 rounded text-xs">
 
 **[Cursor](https://cursor.com/)**  
-AI-first code editor
-
 **[Windsurf](https://codeium.com/windsurf)**  
-The IDE for AI agents
-
 **[VS Code Copilot](https://code.visualstudio.com/)**  
-GitHub's AI pair programmer
-
 **[Zed](https://zed.dev/)**  
-High-performance multiplayer
-
 **[Kiro](https://kiro.dev/)**  
-Agentic IDE for production code
 
 </div>
 
@@ -275,25 +266,14 @@ Agentic IDE for production code
 
 ### 🤖 Agents
 
-<div class="bg-blue-50 p-3 rounded-lg text-sm">
+<div class="bg-blue-50 p-1 rounded text-xs">
 
 **[Cursor Agents](https://cursor.com/)**  
-Autonomous coding agents
-
 **[OpenAI Codex](https://openai.com/index/introducing-openai-o1-preview/)**  
-Powers GitHub Copilot
-
 **[Jules by Google](https://labs.google.com/jules)**  
-AI coding companion
-
 **[Claude Code](https://claude.ai/)**  
-Anthropic's coding assistant
-
 **[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
-Google's AI in terminal
-
 **[Devin](https://devin.ai/)**  
-AI software engineer
 
 </div>
 
@@ -303,22 +283,13 @@ AI software engineer
 
 ### 🎨 Apps
 
-<div class="bg-pink-50 p-3 rounded-lg text-sm">
+<div class="bg-pink-50 p-1 rounded text-xs">
 
 **[Lovable.dev](https://lovable.dev/)**  
-Build apps with AI
-
 **[Bolt.new](https://bolt.new/)**  
-Full-stack web dev
-
 **[V0.dev](https://v0.dev/)**  
-UI generation by Vercel
-
 **[Gemini Canvas](https://aistudio.google.com/)**  
-Google's AI workspace
-
 **[Spark](https://github.com/features/spark)**  
-Dream it. See it. Ship it.
 
 </div>
 
@@ -327,17 +298,17 @@ Dream it. See it. Ship it.
 </div>
 
 <!-- Connection arrows -->
-<div class="flex justify-center mt-6 text-2xl">
-<span class="text-green-500">Editors</span>
+<div class="flex justify-center mt-4 text-xl">
+<span class="text-green-500 font-bold">Editors</span>
 <span class="mx-2">→</span>
-<span class="text-blue-500">Agents</span>
+<span class="text-blue-500 font-bold">Agents</span>
 <span class="mx-2">←</span>
-<span class="text-pink-500">Products</span>
+<span class="text-pink-500 font-bold">Products</span>
 <span class="mx-2">→</span>
-<span class="text-green-500">Editors</span>
+<span class="text-green-500 font-bold">Editors</span>
 </div>
 
-<div class="text-center text-xs text-gray-600 mt-2">
+<div class="text-center text-sm text-gray-600 mt-2">
 The ecosystem is interconnected - Products feed both Editors and Agents, Editors integrate with Agents
 </div>
 
