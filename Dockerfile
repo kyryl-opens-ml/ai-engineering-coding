@@ -10,6 +10,6 @@ RUN pnpm install
 
 COPY . .
 
-EXPOSE 3030
+EXPOSE 3000
 
-CMD ["pnpm", "exec", "slidev", "--open", "--remote"] 
+CMD ["pnpm", "exec", "slidev", "--host", "0.0.0.0", "--port", "3000"] 
