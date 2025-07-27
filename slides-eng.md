@@ -52,23 +52,15 @@ transition: fade-out
 <v-clicks>
 
 <div>
-<h3 class="text-2xl mb-2">Gentle intro</h3>
-<p class="text-gray-400">Market review of vibe coding tools and capabilities</p>
+<h3 class="text-2xl mb-2">Context</h3>
 </div>
 
 <div>
-<h3 class="text-2xl mb-2">Mind the GAP</h3>
-<p class="text-gray-400">What is the gap between real product & vibe coded solutions</p>
-</div>
-
-<div>
-<h3 class="text-2xl mb-2">Real use-case</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
+<h3 class="text-2xl mb-2">AXL Case</h3>
 </div>
 
 <div>
 <h3 class="text-2xl mb-2">Lessons</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
 </div>
 
 </v-clicks>
@@ -76,13 +68,30 @@ transition: fade-out
 </div>
 
 ---
+layout: center
+class: text-center
+---
 
-<div class="w-full h-full flex items-center justify-center relative">
-  <img src="../images/gentle-intro.png" class="w-full h-full object-contain" />
-  <div class="absolute top-8 left-0 right-0 text-center">
-    <h1 class="text-6xl font-bold text-white drop-shadow-lg">Gentle intro</h1>
+# Vibe coding!
+
+<div class="flex items-center justify-center gap-8 mt-8">
+  <div>
+    <div class="text-3xl mb-4">
+      This is vibe coded presentation
+    </div>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/shorts/64TNGvCoegE" target="_blank">
+      <img src="/images/intro.png" alt="Vibe Coding" class="w-96 rounded-lg shadow-lg" />
+    </a>
   </div>
 </div>
+
+---
+layout: section
+---
+
+# Context
 
 ---
 
@@ -99,57 +108,10 @@ transition: fade-out
   </div>
 </div>
 
----
-
-# LLMs are good at code
-
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
-  <div style="text-align: center;">
-    <img src="../images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
-    <a href="https://github.com/swe-bench/SWE-bench" target="_blank">github.com/swe-bench/SWE-bench</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="../images/image-2.2.png" alt="Aider Leaderboards" style="width:300px; display:block; margin-bottom:8px;" />
-    <a href="https://aider.chat/docs/leaderboards/" target="_blank">aider.chat/docs/leaderboards/</a>
-  </div>
-</div>
 
 ---
 
-# Devs are using it a lot!
-
-<div style="text-align: center; margin-bottom: 16px;">
-  <img src="../images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
-  <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
-</div>
-
----
-
-# Market reacts
-
-<div style="text-align: center; margin-bottom: 16px;">
-  <img src="../images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
-  <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
-</div>
-
----
-
-# Sometimes in a bad way
-
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
-  <div style="text-align: center;">
-    <img src="../images/image-5.1.png" alt="Thoughts On A Month With Devin" style="width:300px; display:block; margin-bottom:8px;" />
-    <a href="https://www.answer.ai/posts/2025-01-08-devin.html" target="_blank">answer.ai/posts/2025-01-08-devin.html</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="../images/image-5.2.png" alt="Debunking Devin YouTube" style="width:300px; display:block; margin-bottom:8px;" />
-    <a href="https://www.youtube.com/watch?v=tNmgmwEtoWE" target="_blank">youtube.com/watch?v=tNmgmwEtoWE</a>
-  </div>
-</div>
-
----
-
-# But usually with good products
+# Products
 
 <div class="grid grid-cols-3 gap-6 mt-8">
 
@@ -199,9 +161,6 @@ Anthropic's coding assistant
 **[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
 Google's AI in terminal
 
-**[Devin](https://devin.ai/)**  
-AI software engineer
-
 </div>
 
 </div>
@@ -224,9 +183,6 @@ UI generation by Vercel
 **[Gemini Canvas](https://aistudio.google.com/)**  
 Google's AI workspace
 
-**[Spark](https://github.com/features/spark)**  
-Dream it. See it. Ship it.
-
 </div>
 
 </div>
@@ -239,24 +195,33 @@ Click on any tool to learn more
 
 ---
 
-# But usually with good products
+# Products
 
 <div class="relative">
 
 <!-- Main grid with arrows overlay -->
-<div class="grid grid-cols-3 gap-2 mt-2">
+<div class="grid grid-cols-3 gap-4 mt-6">
 
 <div>
 
 ### ✏️ Editors
 
-<div class="bg-green-50 p-1 rounded text-xs">
+<div class="bg-green-50 p-3 rounded-lg text-sm">
 
 **[Cursor](https://cursor.com/)**  
+AI-first code editor
+
 **[Windsurf](https://codeium.com/windsurf)**  
+The IDE for AI agents
+
 **[VS Code Copilot](https://code.visualstudio.com/)**  
+GitHub's AI pair programmer
+
 **[Zed](https://zed.dev/)**  
+High-performance multiplayer
+
 **[Kiro](https://kiro.dev/)**  
+Agentic IDE for production
 
 </div>
 
@@ -266,14 +231,22 @@ Click on any tool to learn more
 
 ### 🤖 Agents
 
-<div class="bg-blue-50 p-1 rounded text-xs">
+<div class="bg-blue-50 p-3 rounded-lg text-sm">
 
 **[Cursor Agents](https://cursor.com/)**  
+Autonomous coding agents
+
 **[OpenAI Codex](https://openai.com/index/introducing-openai-o1-preview/)**  
+Powers GitHub Copilot
+
 **[Jules by Google](https://labs.google.com/jules)**  
+AI coding companion
+
 **[Claude Code](https://claude.ai/)**  
+Anthropic's coding assistant
+
 **[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
-**[Devin](https://devin.ai/)**  
+Google's AI in terminal
 
 </div>
 
@@ -283,13 +256,19 @@ Click on any tool to learn more
 
 ### 🎨 Apps
 
-<div class="bg-pink-50 p-1 rounded text-xs">
+<div class="bg-pink-50 p-3 rounded-lg text-sm">
 
 **[Lovable.dev](https://lovable.dev/)**  
+Build apps with AI
+
 **[Bolt.new](https://bolt.new/)**  
+Full-stack web dev
+
 **[V0.dev](https://v0.dev/)**  
+UI generation by Vercel
+
 **[Gemini Canvas](https://aistudio.google.com/)**  
-**[Spark](https://github.com/features/spark)**  
+Google's AI workspace
 
 </div>
 
@@ -298,204 +277,18 @@ Click on any tool to learn more
 </div>
 
 <!-- Connection arrows -->
-<div class="flex justify-center mt-4 text-xl">
-<span class="text-green-500 font-bold">Editors</span>
+<div class="flex justify-center mt-6 text-2xl">
+<span class="text-green-500">Editors</span>
 <span class="mx-2">→</span>
-<span class="text-blue-500 font-bold">Agents</span>
+<span class="text-blue-500">Agents</span>
 <span class="mx-2">←</span>
-<span class="text-pink-500 font-bold">Products</span>
+<span class="text-pink-500">Apps</span>
 <span class="mx-2">→</span>
-<span class="text-green-500 font-bold">Editors</span>
+<span class="text-green-500">Editors</span>
 </div>
 
-<div class="text-center text-sm text-gray-600 mt-2">
-The ecosystem is interconnected - Products feed both Editors and Agents, Editors integrate with Agents
-</div>
-
-</div>
-
----
-
-
-# Examples with Bolt.new
-
-<div class="mt-4">
-
-<div v-click>
-
-### <a href="https://magical-toffee-c28548.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Mini Salesforce CRM</a>
-
-```
-Build a CRM like Salesforce but simpler. Include customer profiles, deal pipeline with drag-and-drop stages, contact management, activity tracking, and sales dashboard with charts. Add lead scoring, email templates, and task reminders for follow-ups.
-```
-
-</div>
-
-<div v-click class="mt-6">
-
-### <a href="https://remarkable-marigold-ae2b03.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Pet Mood Predictor</a>
-
-```
-Create a pet mood prediction app that uses "advanced AI" to predict if your pet is happy, plotting world domination, or judging your life choices. Input factors like room temperature, your outfit, what you had for breakfast, and lunar phase. Include mood charts, pet therapy recommendations, and a "pet translator" feature.
-```
-
-</div>
-
-<div v-click class="mt-6">
-
-### <a href="https://statuesque-hotteok-83261c.netlify.app/" target="_blank" class="text-blue-500 hover:underline">Pizza Conspiracy Generator</a>
-
-```
-Build a pizza conspiracy theory generator. Users input their delivery time, toppings, and weather conditions to get elaborate conspiracy theories about why their pizza is late. Include CIA involvement, alien abductions, secret pizza illuminati, and a "evidence board" with red strings connecting random facts. Add a pizza tracker that gets increasingly paranoid.
-```
-
-</div>
-
-</div>
-
-<div v-click class="mt-6 text-center text-sm">
-Copy a prompt and paste into Bolt.new to build in minutes!
-</div>
-
----
-
-<div class="w-full h-full flex items-center justify-center relative">
-  <img src="../images/gap.png" class="w-full h-full object-contain" />
-  <div class="absolute top-32 left-0 right-0 text-center">
-    <h1 class="text-6xl font-bold text-white drop-shadow-lg">Mind the GAP</h1>
-  </div>
-</div>
-
----
-
-# How wide is the gap?
-
-<div class="grid grid-cols-2 gap-4 mt-2">
-
-<div class="text-center">
-<img src="/images/gap-1.1.png" alt="Mind the Gap" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
-</div>
-
-<div class="text-center">
-<img src="/images/gap-1.2.png" alt="AI Coding vs Open Source" class="h-40 mx-auto rounded-lg shadow-lg mb-2" />
-<a href="https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/" target="_blank" class="text-xs text-blue-500 hover:underline">
-pivot-to-ai.com
-</a>
-</div>
-
-</div>
-
-<div class="mt-6">
-
-<div v-click>
-<h3 class="text-xl mb-4">❌ "Good at coding" ≠ "Good Software Engineer"</h3>
-</div>
-
-<div v-click>
-<h3 class="text-xl mb-4">✅ "Solving problems with code" = "Good Software Engineer"</h3>
-</div>
-
-<div v-click>
-<p class="text-lg text-gray-600 italic mt-6">Sometimes "Best code you don't have to write"</p>
-</div>
-
-</div>
-
----
-
-# Cost of software
-
-<div class="mt-8">
-
-<h2 class="text-2xl text-center mb-8">The real cost of software is not writing it, it's ownership</h2>
-
-<div class="grid grid-cols-2 gap-8">
-
-<div>
-<div v-click>
-<h3 class="text-xl mb-4 text-blue-500">Real Costs</h3>
-<ul class="space-y-2 text-lg">
-<li>Infrastructure</li>
-<li>Support & maintenance</li>
-<li>Security updates</li>
-<li>Monitoring & observability</li>
-<li>Upgrades & migrations</li>
-</ul>
-</div>
-</div>
-
-<div class="flex items-center">
-<div v-click class="bg-gray-50 p-4 rounded-lg">
-<h4 class="text-lg font-semibold mb-2">Reference:</h4>
-<a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all/" target="_blank" class="text-blue-600 hover:underline">
-"The Best Code is No Code At All"
-</a>
-<p class="text-sm text-gray-600 mt-2">- Jeff Atwood, Coding Horror</p>
-</div>
-</div>
-
-</div>
-
-<div v-click class="mt-12 p-6 bg-yellow-50 rounded-lg text-center">
-<p class="text-2xl font-bold">Writing code: ~20% | Maintaining it: ~80%</p>
-<p class="text-lg text-gray-600 mt-2">Most of the cost comes AFTER the initial development</p>
-</div>
-
-</div>
-
----
-
-# Better abstractions
-
-<div class="flex gap-6 items-center mt-2">
-
-<div class="flex-shrink-0">
-<img src="/images/gap-2.1.png" alt="LLMs and Abstraction Levels" class="h-96 rounded-lg shadow-lg" />
-</div>
-
-<div class="flex-1">
-
-<div v-click>
-<h3 class="text-2xl mb-4">Not just UP ↑</h3>
-<h3 class="text-2xl mb-6">But SIDEWAYS → into non-determinism</h3>
-</div>
-
-<div v-click class="text-sm">
-<a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank" class="text-blue-500 hover:underline">
-Martin Fowler on LLMs & abstraction
-</a>
-</div>
-
-</div>
-
-</div>
-
----
-
-# Best attempt: AWS Play Kiro
-
-<div class="mt-4">
-
-<div class="grid grid-cols-2 gap-6">
-
-<div class="text-center">
-<img src="/images/gap-5.1.png" alt="Introducing Kiro" class="w-full rounded-lg shadow-lg mb-2" />
-<a href="https://kiro.dev/blog/introducing-kiro/" target="_blank" class="text-sm text-blue-500 hover:underline">
-Introducing Kiro - A new agentic IDE
-</a>
-</div>
-
-<div class="text-center">
-<img src="/images/gap-5.2.png" alt="Project Management at Big Tech" class="w-full rounded-lg shadow-lg mb-2" />
-<a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/" target="_blank" class="text-sm text-blue-500 hover:underline">
-Project Management at Big Tech
-</a>
-</div>
-
-</div>
-
-<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg text-center">
-<p class="text-lg">Combining spec-driven development with AI agents for better production readiness</p>
+<div class="text-center text-xs text-gray-600 mt-2">
+The ecosystem is interconnected - Apps feed both Editors and Agents, Editors integrate with Agents
 </div>
 
 </div>
@@ -504,13 +297,29 @@ Project Management at Big Tech
 layout: section
 ---
 
-# Real life example
-
-How do we use it and how should we use it at New Venture Studio
+# AXL Case
 
 ---
 
-# Setup
+# ML team setup
+
+<div class="grid grid-cols-2 gap-4 mt-2">
+
+<div class="space-y-2">
+<div>
+<img src="../images/axl-1.1.png" alt="AXL Launch Announcement" class="w-full rounded shadow mb-1" style="max-height: 200px; object-fit: contain;" />
+<a href="https://www.linkedin.com/posts/tovi-grossman-40430166_today-im-thrilled-to-share-the-public-launch-activity-7340741771095678980-_Q0W/" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
+AXL Launch
+</a>
+</div>
+
+<div>
+<img src="../images/axl-1.2.png" alt="Dentons AXL Partnership" class="w-full rounded shadow mb-1" style="max-height: 120px; object-fit: contain;" />
+<a href="https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2025/june/dentons-and-axl-announce-strategic-partnership-to-advance-legal-innovation-with-ai" target="_blank" class="text-xs text-blue-600 hover:text-blue-800">
+Dentons Partnership
+</a>
+</div>
+</div>
 
 <div class="flex items-center">
 <div>
@@ -518,7 +327,7 @@ How do we use it and how should we use it at New Venture Studio
 <p class="text-sm mb-3">(Human Computer Interaction)</p>
 
 <div class="text-sm">
-<p class="font-semibold mb-2">Goal to build inhouse team for Venture Studio:</p>
+<p class="font-semibold mb-2">Goals of ML team:</p>
 <ul class="space-y-1 ml-3">
 <li> Build prototypes</li>
 <li> Work with portfolio companies</li>
@@ -526,6 +335,8 @@ How do we use it and how should we use it at New Venture Studio
 </ul>
 </div>
 </div>
+</div>
+
 </div>
 
 ---
@@ -548,6 +359,8 @@ How do we use it and how should we use it at New Venture Studio
 <p class="text-base mt-2">✓ Interview checks for AI usage</p>
 </div>
 </div>
+
+
 
 <div>
 <h3 class="text-2xl font-bold mb-4">Process</h3>
@@ -655,7 +468,7 @@ Data from last 90 days across 7 repositories
 <div class="space-y-2 text-sm">
 
 <div class="p-2 bg-green-50 rounded">
-<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.newventurestudio.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.newventurestudio.vc</a> - apply if you want funding</p>
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
 </div>
 
 <div class="p-2 bg-purple-50 rounded">
@@ -718,11 +531,6 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 
 ---
 
-
-
-
-
-
 # Pattern 1: Slack
 
 <div class="mt-4">
@@ -747,7 +555,7 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 ### 💡 Example (copy this):
 
 ```
-@Cursor repo=newventurestudio-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
+@Cursor repo=axl-lab/teach-ai "We're working with the X team for the next two weeks during the hackathon. X is an educational company that helps students better prepare for programming assignments. The product centers around a course structure—its materials, relevant sources, and collaborative tools—to support students in learning effectively without revealing the actual answers. It's essentially a "Study Together" feature.
 Based on the existing codebase, which intellectual property components, features, and code segments can be reused for the X team?
 Please provide a level of effort (LoE) estimate for the reusability of each module and function as a separate package."
 ```
@@ -828,95 +636,6 @@ layout: section
 
 # Lessons
 
----
-
-# Rule of thumb
-
-<div class="mt-8 text-lg">
-
-<ul class="space-y-4">
-
-<li v-click>POC/Demo - Amazing!</li>
-
-<li v-click>Keep agents on the leash</li>
-
-<li v-click>The more project complexity → The harder to do anything</li>
-
-<li v-click>Scope down</li>
-
-<li v-click>Less code is better</li>
-
-<li v-click>Specs (one pager, etc) - must!</li>
-
-</ul>
-
-</div>
-
----
-
-# Accelerate for AI coding does not exist (yet)
-
-<div class="flex gap-6 items-center mt-4">
-
-<div class="flex-shrink-0">
-<img src="/images/gap-3.1.png" alt="Accelerate Book Cover" class="h-80 rounded-lg shadow-lg" />
-</div>
-
-<div class="flex-1">
-
-<div v-click>
-<p class="text-lg mb-4">There is fundamental research study about efficient engineering orgs</p>
-</div>
-
-<div v-click>
-<h3 class="text-xl mb-3">Key aspects to build tech orgs:</h3>
-<ul class="space-y-2 text-lg">
-<li>Continuous Delivery</li>
-<li>Architecture</li>
-<li>Product and Process</li>
-<li>Lean Management and Monitoring</li>
-<li>Culture</li>
-</ul>
-</div>
-
-<div v-click class="mt-6 p-3 bg-yellow-50 rounded-lg">
-<p class="text-lg font-semibold">But in AI assistant development - they seem to require refresh</p>
-</div>
-
-</div>
-
-</div>
-
----
-
-# Best attempt: keeping agents on the leash
-
-<div class="mt-4">
-
-<div class="grid grid-cols-2 gap-4 mb-4">
-
-<div>
-<img src="/images/gap-4.1.png" alt="AI Human Verification Loop" class="w-full rounded-lg shadow-lg" />
-</div>
-
-<div>
-<img src="/images/gap-4.2.png" alt="Keeping Agents on Leash Example" class="w-full rounded-lg shadow-lg" />
-</div>
-
-</div>
-
-<div v-click class="text-center mt-6">
-<a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank" class="text-blue-500 hover:underline text-lg">
-🎥 Watch the full talk on YouTube
-</a>
-</div>
-
-</div>
-
----
-
-# Summary
-
 <div class="grid grid-cols-4 gap-6 mt-6">
 
 <div class="text-center">
@@ -929,14 +648,14 @@ layout: section
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Agent on a leash</h3>
 <a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">
-<img src="/images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+<img src="../images/gap-4.1.png" alt="Agent on Leash" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
 </a>
 </div>
 
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Better abstractions</h3>
 <a href="https://martinfowler.com/articles/2025-nature-abstraction.html" target="_blank">
-<img src="/images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+<img src="../images/gap-2.1.png" alt="Better Abstractions" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
 </a>
 </div>
 
@@ -950,21 +669,3 @@ layout: section
 </div>
 
 </div>
-
----
-
-# Share your opinions
-
-<div class="text-center mt-16">
-
-<div class="text-4xl mb-8">💭</div>
-
-<h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
-
-<div class="text-xl text-gray-400">
-What worked? What didn't? What surprised you?
-</div>
-
-</div>
-
-
