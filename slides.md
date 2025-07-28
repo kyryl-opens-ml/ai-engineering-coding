@@ -45,6 +45,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
+<KomlLogo />
+
 # Agenda
 
 <div class="space-y-8 mt-10">
@@ -77,6 +79,8 @@ transition: fade-out
 
 ---
 
+<KomlLogo />
+
 <div class="w-full h-full flex items-center justify-center relative">
   <img src="/images/gentle-intro.png" class="w-full h-full object-contain" />
   <div class="absolute top-8 left-0 right-0 text-center">
@@ -85,6 +89,8 @@ transition: fade-out
 </div>
 
 ---
+
+<KomlLogo />
 
 # Vibe coding
 
@@ -101,6 +107,8 @@ transition: fade-out
 
 ---
 
+<KomlLogo />
+
 # LLMs are good at code
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -116,6 +124,8 @@ transition: fade-out
 
 ---
 
+<KomlLogo />
+
 # Devs are using it a lot!
 
 <div style="text-align: center; margin-bottom: 16px;">
@@ -125,6 +135,8 @@ transition: fade-out
 
 ---
 
+<KomlLogo />
+
 # Market reacts
 
 <div style="text-align: center; margin-bottom: 16px;">
@@ -133,6 +145,8 @@ transition: fade-out
 </div>
 
 ---
+
+<KomlLogo />
 
 # Sometimes in a bad way
 
@@ -368,6 +382,8 @@ Copy a prompt and paste into Bolt.new to build in minutes!
 
 ---
 
+<KomlLogo />
+
 # How wide is the gap?
 
 <div class="grid grid-cols-2 gap-4 mt-2">
@@ -402,6 +418,8 @@ pivot-to-ai.com
 </div>
 
 ---
+
+<KomlLogo />
 
 # Cost of software
 
@@ -445,6 +463,8 @@ pivot-to-ai.com
 
 ---
 
+<KomlLogo />
+
 # Better abstractions
 
 <div class="flex gap-6 items-center mt-2">
@@ -471,6 +491,8 @@ Martin Fowler on LLMs & abstraction
 </div>
 
 ---
+
+<KomlLogo />
 
 # Best attempt: AWS Play Kiro
 
@@ -504,11 +526,15 @@ Project Management at Big Tech
 layout: section
 ---
 
+<KomlLogo />
+
 # Real life example
 
 How do we use it and how should we use it at New Venture Studio
 
 ---
+
+<KomlLogo />
 
 # Setup
 
@@ -529,6 +555,8 @@ How do we use it and how should we use it at New Venture Studio
 </div>
 
 ---
+
+<KomlLogo />
 
 # Current Flow
 
@@ -578,6 +606,8 @@ graph LR
 
 ---
 
+<KomlLogo />
+
 # Stats Cursors
 
 <div class="grid grid-cols-2 gap-4 mt-4">
@@ -603,6 +633,8 @@ graph LR
 </div>
 
 ---
+
+<KomlLogo />
 
 # Stats Github
 
@@ -646,6 +678,8 @@ Data from last 90 days across 7 repositories
 
 ---
 
+<KomlLogo />
+
 # Quality Results
 
 <div class="mt-4">
@@ -675,6 +709,8 @@ Data from last 90 days across 7 repositories
 </div>
 
 ---
+
+<KomlLogo />
 
 # Non tech folks
 
@@ -718,10 +754,7 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 
 ---
 
-
-
-
-
+<KomlLogo />
 
 # Pattern 1: Slack
 
@@ -758,6 +791,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
+<KomlLogo />
+
 # Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
@@ -788,6 +823,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 ---
+
+<KomlLogo />
 
 # Pattern 3: Mobile
 
@@ -826,9 +863,13 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 layout: section
 ---
 
+<KomlLogo />
+
 # Lessons
 
 ---
+
+<KomlLogo />
 
 # Rule of thumb
 
@@ -853,6 +894,8 @@ layout: section
 </div>
 
 ---
+
+<KomlLogo />
 
 # Accelerate for AI coding does not exist (yet)
 
@@ -889,6 +932,8 @@ layout: section
 
 ---
 
+<KomlLogo />
+
 # Best attempt: keeping agents on the leash
 
 <div class="mt-4">
@@ -914,6 +959,8 @@ layout: section
 </div>
 
 ---
+
+<KomlLogo />
 
 # Summary
 
@@ -952,6 +999,8 @@ layout: section
 </div>
 
 ---
+
+<KomlLogo />
 
 # Share your opinions
 

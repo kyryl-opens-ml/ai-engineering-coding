@@ -45,6 +45,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
+<KomlLogo />
+
 # Agenda
 
 <div class="space-y-8 mt-10">
@@ -72,6 +74,8 @@ layout: center
 class: text-center
 ---
 
+<KomlLogo />
+
 # Vibe coding!
 
 <div class="flex items-center justify-center gap-8 mt-8">
@@ -91,9 +95,13 @@ class: text-center
 layout: section
 ---
 
+<KomlLogo />
+
 # Context
 
 ---
+
+<KomlLogo />
 
 # Vibe coding
 
@@ -110,6 +118,8 @@ layout: section
 
 
 ---
+
+<KomlLogo />
 
 # Products
 
@@ -194,6 +204,8 @@ Click on any tool to learn more
 </div>
 
 ---
+
+<KomlLogo />
 
 # Products
 
@@ -297,9 +309,13 @@ The ecosystem is interconnected - Apps feed both Editors and Agents, Editors int
 layout: section
 ---
 
+<KomlLogo />
+
 # AXL Case
 
 ---
+
+<KomlLogo />
 
 # ML team setup
 
@@ -340,6 +356,8 @@ Dentons Partnership
 </div>
 
 ---
+
+<KomlLogo />
 
 # Current Flow
 
@@ -391,6 +409,8 @@ graph LR
 
 ---
 
+<KomlLogo />
+
 # Stats Cursors
 
 <div class="grid grid-cols-2 gap-4 mt-4">
@@ -416,6 +436,8 @@ graph LR
 </div>
 
 ---
+
+<KomlLogo />
 
 # Stats Github
 
@@ -459,6 +481,8 @@ Data from last 90 days across 7 repositories
 
 ---
 
+<KomlLogo />
+
 # Quality Results
 
 <div class="mt-4">
@@ -488,6 +512,8 @@ Data from last 90 days across 7 repositories
 </div>
 
 ---
+
+<KomlLogo />
 
 # Non tech folks
 
@@ -531,6 +557,8 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 
 ---
 
+<KomlLogo />
+
 # Pattern 1: Slack
 
 <div class="mt-4">
@@ -566,6 +594,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
+<KomlLogo />
+
 # Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
@@ -596,6 +626,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 ---
+
+<KomlLogo />
 
 # Pattern 3: Mobile
 
@@ -633,6 +665,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 ---
 layout: section
 ---
+
+<KomlLogo />
 
 # Lessons
 

@@ -45,6 +45,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
+<KomlLogo />
+
 # Agenda
 
 <div class="space-y-8 mt-10">
@@ -75,6 +77,8 @@ layout: center
 class: text-center
 ---
 
+<KomlLogo />
+
 # Why not AXL standard template?
 
 <div class="text-3xl mt-12">
@@ -83,6 +87,8 @@ Because this presentation was vibe coded as well! 🎉
 
 
 ---
+
+<KomlLogo />
 
 <div style="display: flex; flex-direction: column; gap: 20px; justify-content: center; align-items: center; height: 100%;">
   <div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: center;">
@@ -96,11 +102,15 @@ Because this presentation was vibe coded as well! 🎉
 layout: section
 ---
 
+<KomlLogo />
+
 # Gentle intro
 
 Market review
 
 ---
+
+<KomlLogo />
 
 # Vibe coding
 
@@ -117,6 +127,8 @@ Market review
 
 ---
 
+<KomlLogo />
+
 # LLMs are good at code
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -132,6 +144,8 @@ Market review
 
 ---
 
+<KomlLogo />
+
 # Devs are using it a lot!
 
 <div style="text-align: center; margin-bottom: 16px;">
@@ -141,6 +155,8 @@ Market review
 
 ---
 
+<KomlLogo />
+
 # Market reacts
 
 <div style="text-align: center; margin-bottom: 16px;">
@@ -149,6 +165,8 @@ Market review
 </div>
 
 ---
+
+<KomlLogo />
 
 # Sometimes in a bad way
 
@@ -164,6 +182,8 @@ Market review
 </div>
 
 ---
+
+<KomlLogo />
 
 # But usually with good products
 
@@ -245,6 +265,8 @@ Click on any tool to learn more
 </div>
 
 ---
+
+<KomlLogo />
 
 # But usually with good products
 
@@ -343,6 +365,7 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 
 ---
 
+<KomlLogo />
 
 # Ideas to try with Bolt.new
 
@@ -382,11 +405,15 @@ Copy a prompt and paste into Bolt.new to build in minutes!
 layout: section
 ---
 
+<KomlLogo />
+
 # Mind the GAP
 
 What is the gap between real product & vibe coded solutions
 
 ---
+
+<KomlLogo />
 
 # How wide is the gap?
 
@@ -422,6 +449,8 @@ pivot-to-ai.com
 </div>
 
 ---
+
+<KomlLogo />
 
 # Cost of software
 
@@ -465,6 +494,8 @@ pivot-to-ai.com
 
 ---
 
+<KomlLogo />
+
 # Better abstractions
 
 <div class="flex gap-6 items-center mt-2">
@@ -491,6 +522,8 @@ Martin Fowler on LLMs & abstraction
 </div>
 
 ---
+
+<KomlLogo />
 
 # Accelerate for AI coding does not exist (yet)
 
@@ -527,6 +560,8 @@ Martin Fowler on LLMs & abstraction
 
 ---
 
+<KomlLogo />
+
 # Best attempt: keeping agents on the leash
 
 <div class="mt-4">
@@ -553,6 +588,8 @@ Martin Fowler on LLMs & abstraction
 
 
 ---
+
+<KomlLogo />
 
 # Best attempt: AWS Play Kiro
 
@@ -586,6 +623,7 @@ Project Management at Big Tech
 
 ---
 
+<KomlLogo />
 
 # Rule of thumb
 
@@ -613,11 +651,15 @@ Project Management at Big Tech
 layout: section
 ---
 
+<KomlLogo />
+
 # AXL way
 
 How do we use it and how should we use it at AXL
 
 ---
+
+<KomlLogo />
 
 # Pre-requisites
 
@@ -654,6 +696,8 @@ How do we use it and how should we use it at AXL
 
 ---
 
+<KomlLogo />
+
 # Our setup
 
 <div class="mt-8">
@@ -673,6 +717,8 @@ graph LR
 </div>
 
 ---
+
+<KomlLogo />
 
 # Cursor stats
 
@@ -695,6 +741,8 @@ graph LR
 </div>
 
 ---
+
+<KomlLogo />
 
 # Team opinion
 
@@ -760,6 +808,8 @@ What worked? What didn't? What surprised you?
 
 ---
 
+<KomlLogo />
+
 # Pattern 1: Slack
 
 <div class="mt-4">
@@ -795,6 +845,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
+<KomlLogo />
+
 # Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
@@ -825,6 +877,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 ---
+
+<KomlLogo />
 
 # Pattern 3: Mobile
 
@@ -860,6 +914,8 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 ---
+
+<KomlLogo />
 
 # Ideal state
 
