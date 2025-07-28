@@ -78,7 +78,7 @@ transition: fade-out
 ---
 
 <div class="w-full h-full flex items-center justify-center relative">
-  <img src="../images/gentle-intro.png" class="w-full h-full object-contain" />
+  <img src="/images/gentle-intro.png" class="w-full h-full object-contain" />
   <div class="absolute top-8 left-0 right-0 text-center">
     <h1 class="text-6xl font-bold text-white drop-shadow-lg">Gentle intro</h1>
   </div>
@@ -90,11 +90,11 @@ transition: fade-out
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
-    <img src="../images/image-1.1.png" alt="The Way of Code" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-1.1.png" alt="The Way of Code" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://www.thewayofcode.com/" target="_blank">thewayofcode.com</a>
   </div>
   <div style="text-align: center;">
-    <img src="../images/image-1.2.png" alt="Karpathy Vibe Coding Tweet" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-1.2.png" alt="Karpathy Vibe Coding Tweet" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://x.com/karpathy/status/1886192184808149383?lang=en" target="_blank">x.com/karpathy/status/1886192184808149383</a>
   </div>
 </div>
@@ -105,11 +105,11 @@ transition: fade-out
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
-    <img src="../images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://github.com/swe-bench/SWE-bench" target="_blank">github.com/swe-bench/SWE-bench</a>
   </div>
   <div style="text-align: center;">
-    <img src="../images/image-2.2.png" alt="Aider Leaderboards" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-2.2.png" alt="Aider Leaderboards" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://aider.chat/docs/leaderboards/" target="_blank">aider.chat/docs/leaderboards/</a>
   </div>
 </div>
@@ -119,7 +119,7 @@ transition: fade-out
 # Devs are using it a lot!
 
 <div style="text-align: center; margin-bottom: 16px;">
-  <img src="../images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <img src="/images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
 </div>
 
@@ -128,7 +128,7 @@ transition: fade-out
 # Market reacts
 
 <div style="text-align: center; margin-bottom: 16px;">
-  <img src="../images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
+  <img src="/images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
 </div>
 
@@ -138,11 +138,11 @@ transition: fade-out
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
-    <img src="../images/image-5.1.png" alt="Thoughts On A Month With Devin" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-5.1.png" alt="Thoughts On A Month With Devin" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://www.answer.ai/posts/2025-01-08-devin.html" target="_blank">answer.ai/posts/2025-01-08-devin.html</a>
   </div>
   <div style="text-align: center;">
-    <img src="../images/image-5.2.png" alt="Debunking Devin YouTube" style="width:300px; display:block; margin-bottom:8px;" />
+    <img src="/images/image-5.2.png" alt="Debunking Devin YouTube" style="width:300px; display:block; margin-bottom:8px;" />
     <a href="https://www.youtube.com/watch?v=tNmgmwEtoWE" target="_blank">youtube.com/watch?v=tNmgmwEtoWE</a>
   </div>
 </div>
@@ -360,7 +360,7 @@ Copy a prompt and paste into Bolt.new to build in minutes!
 ---
 
 <div class="w-full h-full flex items-center justify-center relative">
-  <img src="../images/gap.png" class="w-full h-full object-contain" />
+  <img src="/images/gap.png" class="w-full h-full object-contain" />
   <div class="absolute top-32 left-0 right-0 text-center">
     <h1 class="text-6xl font-bold text-white drop-shadow-lg">Mind the GAP</h1>
   </div>
@@ -583,17 +583,17 @@ graph LR
 <div class="grid grid-cols-2 gap-4 mt-4">
 
 <div class="text-center">
-<img src="../images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
+<img src="/images/axl-2.1.png" alt="Line Changes per Active User" class="w-80 mx-auto rounded-lg shadow-lg" />
 </div>
 
 <div class="text-center">
-<img src="../images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
+<img src="/images/axl-2.2.png" alt="Chat Model Usage" class="w-80 mx-auto rounded-lg shadow-lg" />
 </div>
 
 </div>
 
 <div class="text-center mt-4">
-<img src="../images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
+<img src="/images/axl-2.3.png" alt="Chat Request Types" class="w-120 mx-auto rounded-lg shadow-lg" />
 </div>
 
 <div class="text-center mt-4">
@@ -922,7 +922,7 @@ layout: section
 <div class="text-center">
 <h3 class="text-lg font-bold mb-3">Accelerate & Best practices</h3>
 <a href="https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339" target="_blank">
-<img src="../images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
+<img src="/images/gap-3.1.png" alt="Accelerate Book" class="w-32 mx-auto rounded shadow-lg hover:opacity-80 transition-opacity" />
 </a>
 </div>
 
