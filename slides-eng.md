@@ -24,7 +24,6 @@ mdc: true
 # seoMeta:
 #  ogImage: https://cover.sli.dev
 ---
-
 # You don't have an excuse not to code now!
 
 
@@ -40,11 +39,12 @@ mdc: true
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
-
+<div class="abs-bl m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 transition: fade-out
 ---
-
 # Agenda
 
 <div class="space-y-8 mt-10">
@@ -66,12 +66,13 @@ transition: fade-out
 </v-clicks>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: center
 class: text-center
 ---
-
 # Vibe coding!
 
 <div class="flex items-center justify-center gap-8 mt-8">
@@ -86,15 +87,17 @@ class: text-center
     </a>
   </div>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: section
 ---
-
 # Context
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Vibe coding
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -107,10 +110,10 @@ layout: section
     <a href="https://x.com/karpathy/status/1886192184808149383?lang=en" target="_blank">x.com/karpathy/status/1886192184808149383</a>
   </div>
 </div>
-
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Products
 
 <div class="grid grid-cols-3 gap-6 mt-8">
@@ -192,9 +195,10 @@ Google's AI workspace
 <div class="text-center text-sm text-gray-400 mt-4">
 Click on any tool to learn more
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Products
 
 <div class="relative">
@@ -292,15 +296,17 @@ The ecosystem is interconnected - Apps feed both Editors and Agents, Editors int
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: section
 ---
-
 # AXL Case
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # ML team setup
 
 <div class="grid grid-cols-2 gap-4 mt-2">
@@ -338,9 +344,10 @@ Dentons Partnership
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Current Flow
 
 <div class="grid grid-cols-2 gap-8 mt-4">
@@ -388,9 +395,10 @@ graph LR
 <div class="text-center text-sm text-gray-600 mt-4">
 📢 I am hiring for my full-time replacement: ML Lead / Head of AI
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Stats Cursors
 
 <div class="grid grid-cols-2 gap-4 mt-4">
@@ -414,9 +422,10 @@ graph LR
 📊 cursor.com/analytics
 </a>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Stats Github
 
 <div class="grid grid-cols-2 gap-6 mt-4">
@@ -456,9 +465,10 @@ graph LR
 <div class="text-center text-xs text-gray-500 mt-3">
 Data from last 90 days across 7 repositories
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Quality Results
 
 <div class="mt-4">
@@ -486,9 +496,10 @@ Data from last 90 days across 7 repositories
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Non tech folks
 
 <div class="mt-2">
@@ -528,9 +539,10 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Pattern 1: Slack
 
 <div class="mt-4">
@@ -563,9 +575,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
@@ -594,9 +607,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Pattern 3: Mobile
 
 <div class="flex gap-8 mt-4">
@@ -629,11 +643,12 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: section
 ---
-
 # Lessons
 
 <div class="grid grid-cols-4 gap-6 mt-6">
@@ -668,4 +683,7 @@ layout: section
 </a>
 </div>
 
+</div>
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
 </div>

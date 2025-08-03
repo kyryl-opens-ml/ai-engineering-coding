@@ -24,7 +24,6 @@ mdc: true
 # seoMeta:
 #  ogImage: https://cover.sli.dev
 ---
-
 # You don't have an excuse not to code now!
 
 
@@ -37,14 +36,16 @@ mdc: true
   </a>
 </div>
 
+<div class="abs-bl m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
+
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
-
 ---
 transition: fade-out
 ---
-
 # Agenda
 
 <div class="space-y-8 mt-10">
@@ -75,8 +76,10 @@ transition: fade-out
 
 </div>
 
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 <div class="w-full h-full flex items-center justify-center relative">
   <img src="/images/gentle-intro.png" class="w-full h-full object-contain" />
   <div class="absolute top-8 left-0 right-0 text-center">
@@ -84,8 +87,10 @@ transition: fade-out
   </div>
 </div>
 
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Vibe coding
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -99,8 +104,10 @@ transition: fade-out
   </div>
 </div>
 
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # LLMs are good at code
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -113,27 +120,30 @@ transition: fade-out
     <a href="https://aider.chat/docs/leaderboards/" target="_blank">aider.chat/docs/leaderboards/</a>
   </div>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Devs are using it a lot!
 
 <div style="text-align: center; margin-bottom: 16px;">
   <img src="/images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Market reacts
 
 <div style="text-align: center; margin-bottom: 16px;">
   <img src="/images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Sometimes in a bad way
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
@@ -146,9 +156,10 @@ transition: fade-out
     <a href="https://www.youtube.com/watch?v=tNmgmwEtoWE" target="_blank">youtube.com/watch?v=tNmgmwEtoWE</a>
   </div>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # But usually with good products
 
 <div class="grid grid-cols-3 gap-6 mt-8">
@@ -236,9 +247,10 @@ Dream it. See it. Ship it.
 <div class="text-center text-sm text-gray-400 mt-4">
 Click on any tool to learn more
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # But usually with good products
 
 <div class="relative">
@@ -313,10 +325,10 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
-
 # Examples with Bolt.new
 
 <div class="mt-4">
@@ -356,18 +368,20 @@ Build a pizza conspiracy theory generator. Users input their delivery time, topp
 <div v-click class="mt-6 text-center text-sm">
 Copy a prompt and paste into Bolt.new to build in minutes!
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 <div class="w-full h-full flex items-center justify-center relative">
   <img src="/images/gap.png" class="w-full h-full object-contain" />
   <div class="absolute top-32 left-0 right-0 text-center">
     <h1 class="text-6xl font-bold text-white drop-shadow-lg">Mind the GAP</h1>
   </div>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # How wide is the gap?
 
 <div class="grid grid-cols-2 gap-4 mt-2">
@@ -400,9 +414,10 @@ pivot-to-ai.com
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Cost of software
 
 <div class="mt-8">
@@ -442,9 +457,10 @@ pivot-to-ai.com
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Better abstractions
 
 <div class="flex gap-6 items-center mt-2">
@@ -469,9 +485,10 @@ Martin Fowler on LLMs & abstraction
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Best attempt: AWS Play Kiro
 
 <div class="mt-4">
@@ -499,17 +516,19 @@ Project Management at Big Tech
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: section
 ---
-
 # Real life example
 
 How do we use it and how should we use it at New Venture Studio
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Setup
 
 <div class="flex items-center">
@@ -527,9 +546,10 @@ How do we use it and how should we use it at New Venture Studio
 </div>
 </div>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Current Flow
 
 <div class="grid grid-cols-2 gap-8 mt-4">
@@ -575,9 +595,10 @@ graph LR
 <div class="text-center text-sm text-gray-600 mt-4">
 📢 I am hiring for my full-time replacement: ML Lead / Head of AI
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Stats Cursors
 
 <div class="grid grid-cols-2 gap-4 mt-4">
@@ -601,9 +622,10 @@ graph LR
 📊 cursor.com/analytics
 </a>
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Stats Github
 
 <div class="grid grid-cols-2 gap-6 mt-4">
@@ -643,9 +665,10 @@ graph LR
 <div class="text-center text-xs text-gray-500 mt-3">
 Data from last 90 days across 7 repositories
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Quality Results
 
 <div class="mt-4">
@@ -673,9 +696,10 @@ Data from last 90 days across 7 repositories
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Non tech folks
 
 <div class="mt-2">
@@ -715,14 +739,10 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
-
-
-
-
-
 # Pattern 1: Slack
 
 <div class="mt-4">
@@ -755,9 +775,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Pattern 2: Web
 
 <div class="flex gap-8 mt-4">
@@ -786,9 +807,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Pattern 3: Mobile
 
 <div class="flex gap-8 mt-4">
@@ -821,15 +843,17 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
 layout: section
 ---
-
 # Lessons
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Rule of thumb
 
 <div class="mt-8 text-lg">
@@ -851,9 +875,10 @@ layout: section
 </ul>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Accelerate for AI coding does not exist (yet)
 
 <div class="flex gap-6 items-center mt-4">
@@ -886,9 +911,10 @@ layout: section
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Best attempt: keeping agents on the leash
 
 <div class="mt-4">
@@ -912,9 +938,10 @@ layout: section
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Summary
 
 <div class="grid grid-cols-4 gap-6 mt-6">
@@ -950,9 +977,10 @@ layout: section
 </div>
 
 </div>
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
 ---
-
 # Share your opinions
 
 <div class="text-center mt-16">
@@ -966,5 +994,6 @@ What worked? What didn't? What surprised you?
 </div>
 
 </div>
-
-
+<div class="abs-br m-6">
+  <img src="/images/koml-logo.png" alt="KOML Logo" class="w-12 h-12 opacity-70" />
+</div>
