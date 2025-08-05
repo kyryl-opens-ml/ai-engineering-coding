@@ -27,6 +27,9 @@ mdc: true
 
 # You don't have an excuse not to code now!
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="abs-br m-6 text-xl">
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
@@ -46,6 +49,10 @@ transition: fade-out
 ---
 
 # Agenda
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="space-y-8 mt-10">
 
@@ -82,11 +89,18 @@ transition: fade-out
   <div class="absolute top-8 left-0 right-0 text-center">
     <h1 class="text-6xl font-bold text-white drop-shadow-lg">Gentle intro</h1>
   </div>
+  <div class="absolute top-4 right-4">
+    <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+  </div>
 </div>
 
 ---
 
 # Vibe coding
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
@@ -103,6 +117,10 @@ transition: fade-out
 
 # LLMs are good at code
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
     <img src="/images/image-2.1.png" alt="SWE-bench" style="width:300px; display:block; margin-bottom:8px;" />
@@ -118,6 +136,10 @@ transition: fade-out
 
 # Devs are using it a lot!
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div style="text-align: center; margin-bottom: 16px;">
   <img src="/images/image-3.1.png" alt="AI usage by job type" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.anthropic.com/news/the-anthropic-economic-index" target="_blank">anthropic.com/news/the-anthropic-economic-index</a>
@@ -127,6 +149,10 @@ transition: fade-out
 
 # Market reacts
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div style="text-align: center; margin-bottom: 16px;">
   <img src="/images/image-4.1.png" alt="AI is already changing how we build software" style="width:500px; display:block; margin: 0 auto 8px auto;" />
   <a href="https://www.redpoint.com/infrared/report/" target="_blank">redpoint.com/infrared/report/</a>
@@ -135,6 +161,10 @@ transition: fade-out
 ---
 
 # Sometimes in a bad way
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 32px; justify-content: center; margin-bottom: 24px;">
   <div style="text-align: center;">
@@ -150,6 +180,10 @@ transition: fade-out
 ---
 
 # But usually with good products
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="grid grid-cols-3 gap-6 mt-8">
 
@@ -241,6 +275,10 @@ Click on any tool to learn more
 
 # But usually with good products
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="relative">
 
 <!-- Main grid with arrows overlay -->
@@ -319,6 +357,10 @@ The ecosystem is interconnected - Products feed both Editors and Agents, Editors
 
 # Examples with Bolt.new
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="mt-4">
 
 <div v-click>
@@ -364,11 +406,18 @@ Copy a prompt and paste into Bolt.new to build in minutes!
   <div class="absolute top-32 left-0 right-0 text-center">
     <h1 class="text-6xl font-bold text-white drop-shadow-lg">Mind the GAP</h1>
   </div>
+  <div class="absolute top-4 right-4">
+    <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+  </div>
 </div>
 
 ---
 
 # How wide is the gap?
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="grid grid-cols-2 gap-4 mt-2">
 
@@ -404,6 +453,10 @@ pivot-to-ai.com
 ---
 
 # Cost of software
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="mt-8">
 
@@ -447,6 +500,10 @@ pivot-to-ai.com
 
 # Better abstractions
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="flex gap-6 items-center mt-2">
 
 <div class="flex-shrink-0">
@@ -473,6 +530,10 @@ Martin Fowler on LLMs & abstraction
 ---
 
 # Best attempt: AWS Play Kiro
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="mt-4">
 
@@ -506,11 +567,19 @@ layout: section
 
 # Real life example
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 How do we use it and how should we use it at New Venture Studio
 
 ---
 
 # Setup
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="flex items-center">
 <div>
@@ -531,6 +600,10 @@ How do we use it and how should we use it at New Venture Studio
 ---
 
 # Current Flow
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="grid grid-cols-2 gap-8 mt-4">
 
@@ -580,6 +653,10 @@ graph LR
 
 # Stats Cursors
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="grid grid-cols-2 gap-4 mt-4">
 
 <div class="text-center">
@@ -605,6 +682,10 @@ graph LR
 ---
 
 # Stats Github
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="grid grid-cols-2 gap-6 mt-4">
 
@@ -648,6 +729,10 @@ Data from last 90 days across 7 repositories
 
 # Quality Results
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="mt-4">
 
 <h3 class="text-xl font-bold mb-4">Timeline: 2.5 months</h3>
@@ -677,6 +762,10 @@ Data from last 90 days across 7 repositories
 ---
 
 # Non tech folks
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="mt-2">
 
@@ -725,6 +814,10 @@ For anyone without code editor - we encourage to use vibe coding a lot! 🚀
 
 # Pattern 1: Slack
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="mt-4">
 
 <div class="text-lg mb-6">
@@ -760,6 +853,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 # Pattern 2: Web
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="flex gap-8 mt-4">
 
 <div class="flex-1">
@@ -790,6 +887,10 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 ---
 
 # Pattern 3: Mobile
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="flex gap-8 mt-4">
 
@@ -828,9 +929,17 @@ layout: section
 
 # Lessons
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 ---
 
 # Rule of thumb
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="mt-8 text-lg">
 
@@ -855,6 +964,10 @@ layout: section
 ---
 
 # Accelerate for AI coding does not exist (yet)
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="flex gap-6 items-center mt-4">
 
@@ -891,6 +1004,10 @@ layout: section
 
 # Best attempt: keeping agents on the leash
 
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
 <div class="mt-4">
 
 <div class="grid grid-cols-2 gap-4 mb-4">
@@ -916,6 +1033,10 @@ layout: section
 ---
 
 # Summary
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="grid grid-cols-4 gap-6 mt-6">
 
@@ -954,6 +1075,10 @@ layout: section
 ---
 
 # Share your opinions
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
 
 <div class="text-center mt-16">
 
