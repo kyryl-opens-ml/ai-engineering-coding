@@ -70,12 +70,12 @@ transition: fade-out
 
 <div>
 <h3 class="text-2xl mb-2">Real use-case</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
+<p class="text-gray-400">How do we use it and how should we use it at Venture Studio</p>
 </div>
 
 <div>
 <h3 class="text-2xl mb-2">Lessons</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
+<p class="text-gray-400">Reusable parts</p>
 </div>
 
 </v-clicks>
@@ -191,7 +191,7 @@ transition: fade-out
 
 ### ✏️ Editors
 
-<div class="bg-green-50 p-4 rounded-lg">
+<div class="bg-green-50 p-3 rounded-lg text-sm">
 
 **[Cursor](https://cursor.com/)**  
 AI-first code editor
@@ -216,7 +216,7 @@ Agentic IDE for production code
 
 ### 🤖 Agents
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-3 rounded-lg text-sm">
 
 **[Cursor Agents](https://cursor.com/)**  
 Autonomous coding agents
@@ -230,9 +230,6 @@ AI coding companion
 **[Claude Code](https://claude.ai/)**  
 Anthropic's coding assistant
 
-**[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
-Google's AI in terminal
-
 **[Devin](https://devin.ai/)**  
 AI software engineer
 
@@ -244,7 +241,7 @@ AI software engineer
 
 ### 🎨 Apps
 
-<div class="bg-pink-50 p-4 rounded-lg">
+<div class="bg-pink-50 p-3 rounded-lg text-sm">
 
 **[Lovable.dev](https://lovable.dev/)**  
 Build apps with AI
@@ -255,8 +252,8 @@ Full-stack web dev in browser
 **[V0.dev](https://v0.dev/)**  
 UI generation by Vercel
 
-**[Gemini Canvas](https://aistudio.google.com/)**  
-Google's AI workspace
+**[Replit](https://replit.com/)**  
+Code, create, and learn together
 
 **[Spark](https://github.com/features/spark)**  
 Dream it. See it. Ship it.
@@ -326,6 +323,7 @@ Click on any tool to learn more
 **[Lovable.dev](https://lovable.dev/)**  
 **[Bolt.new](https://bolt.new/)**  
 **[V0.dev](https://v0.dev/)**  
+**[Replit](https://replit.com/)**  
 **[Gemini Canvas](https://aistudio.google.com/)**  
 **[Spark](https://github.com/features/spark)**  
 
@@ -562,6 +560,56 @@ Project Management at Big Tech
 </div>
 
 ---
+
+# Format measure attempt
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
+<div class="mt-8">
+
+<div class="text-center text-lg mb-8">
+AI Productivity Gains: Greenfield vs. Brownfield Projects
+</div>
+
+<div class="grid grid-cols-2 gap-8">
+
+<div class="text-center">
+<div class="text-6xl font-bold text-green-500 mb-2">37.5%</div>
+<div class="text-lg font-semibold">Low Complexity</div>
+<div class="text-sm text-gray-600">Greenfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-yellow-600 mb-2">17.5%</div>
+<div class="text-lg font-semibold">Low Complexity</div>
+<div class="text-sm text-gray-600">Brownfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-green-500 mb-2">12.5%</div>
+<div class="text-lg font-semibold">High Complexity</div>
+<div class="text-sm text-gray-600">Greenfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-yellow-500 mb-2">5%</div>
+<div class="text-lg font-semibold">High Complexity</div>
+<div class="text-sm text-gray-600">Brownfield Projects</div>
+</div>
+
+</div>
+
+<div class="text-center mt-8">
+<a href="https://www.youtube.com/watch?v=tbDDYKRFjhk" target="_blank" class="text-blue-500 hover:underline text-sm">
+Does AI Actually Boost Developer Productivity? (100k Devs Study)
+</a>
+</div>
+
+</div>
+
+---
 layout: section
 ---
 
@@ -571,7 +619,7 @@ layout: section
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
 </div>
 
-How do we use it and how should we use it at New Venture Studio
+How do we use it and how should we use it at Venture Studio
 
 ---
 
@@ -583,7 +631,7 @@ How do we use it and how should we use it at New Venture Studio
 
 <div class="flex items-center">
 <div>
-<h3 class="text-lg font-bold mb-2">New Venture Studio in Toronto focused on HCI</h3>
+<h3 class="text-lg font-bold mb-2">Venture Studio in Toronto focused on HCI</h3>
 <p class="text-sm mb-3">(Human Computer Interaction)</p>
 
 <div class="text-sm">
@@ -740,7 +788,7 @@ Data from last 90 days across 7 repositories
 <div class="space-y-2 text-sm">
 
 <div class="p-2 bg-green-50 rounded">
-<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.newventurestudio.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.newventurestudio.vc</a> - apply if you want funding</p>
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
 </div>
 
 <div class="p-2 bg-purple-50 rounded">
@@ -847,6 +895,31 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 </div>
 
+</div>
+
+---
+
+# Pattern 1: Slack - Demo!
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
+<div class="mt-4">
+
+<div class="text-lg mb-6">
+<strong>Modern software development practices enhance vibe coding workflows</strong>
+</div>
+
+<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg">
+
+### 💡 Example (copy this):
+
+```
+@Cursor repo=kyryl-opens-ml/ai-engineering-coding "Add a new slide after "Pattern 1: Slack" with a reference to https://themodernsoftware.dev/ and context - there are even new courses about how to use model feature development stack."
+```
+
+</div>
 </div>
 
 ---
@@ -1080,14 +1153,42 @@ layout: section
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
 </div>
 
-<div class="text-center mt-16">
+<div class="text-center mt-8">
 
 <div class="text-4xl mb-8">💭</div>
 
 <h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
 
-<div class="text-xl text-gray-400">
+<div class="text-xl text-gray-400 mb-8">
 What worked? What didn't? What surprised you?
+</div>
+
+</div>
+
+<div class="mt-8">
+
+<h3 class="text-2xl mb-4 text-center">Resources:</h3>
+
+<div class="space-y-3 text-lg">
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/08/04/cursor-railway-vibe-coding-pr-environments/" target="_blank" class="text-blue-500 hover:underline">
+Cursor × Railway: Fueling Vibe Coding with Ephemeral PR Environments
+</a>
+</div>
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/07/28/vibe-coding-ml-team-case-study/" target="_blank" class="text-blue-500 hover:underline">
+Case Study: How Vibe Coding Powered a High-Velocity ML Team
+</a>
+</div>
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/04/20/ai-programming-renaissance/" target="_blank" class="text-blue-500 hover:underline">
+AI Programming Renaissance
+</a>
+</div>
+
 </div>
 
 </div>
