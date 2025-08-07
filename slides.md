@@ -899,6 +899,31 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
+# Pattern 1: Slack - Demo!
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
+<div class="mt-4">
+
+<div class="text-lg mb-6">
+<strong>Modern software development practices enhance vibe coding workflows</strong>
+</div>
+
+<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg">
+
+### 💡 Example (copy this):
+
+```
+@Cursor repo=kyryl-opens-ml/ai-engineering-coding "Add a new slide after "Pattern 1: Slack" with a reference to https://themodernsoftware.dev/ and context - there are even new courses about how to use model feature development stack."
+```
+
+</div>
+</div>
+
+---
+
 # Pattern 2: Web
 
 <div class="abs-tr m-4">
