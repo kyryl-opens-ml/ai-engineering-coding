@@ -1128,14 +1128,42 @@ layout: section
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
 </div>
 
-<div class="text-center mt-16">
+<div class="text-center mt-8">
 
 <div class="text-4xl mb-8">💭</div>
 
 <h2 class="text-3xl mb-8">What's your experience with vibe coding?</h2>
 
-<div class="text-xl text-gray-400">
+<div class="text-xl text-gray-400 mb-8">
 What worked? What didn't? What surprised you?
+</div>
+
+</div>
+
+<div class="mt-8">
+
+<h3 class="text-2xl mb-4 text-center">Resources:</h3>
+
+<div class="space-y-3 text-lg">
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/08/04/cursor-railway-vibe-coding-pr-environments/" target="_blank" class="text-blue-500 hover:underline">
+Cursor × Railway: Fueling Vibe Coding with Ephemeral PR Environments
+</a>
+</div>
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/07/28/vibe-coding-ml-team-case-study/" target="_blank" class="text-blue-500 hover:underline">
+Case Study: How Vibe Coding Powered a High-Velocity ML Team
+</a>
+</div>
+
+<div class="text-center">
+<a href="https://kyrylai.com/2025/04/20/ai-programming-renaissance/" target="_blank" class="text-blue-500 hover:underline">
+AI Programming Renaissance
+</a>
+</div>
+
 </div>
 
 </div>
