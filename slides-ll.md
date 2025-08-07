@@ -800,7 +800,7 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 <div class="mt-4">
 
 <div class="text-lg mb-6">
-**[The Modern Software](https://themodernsoftware.dev/)** - There are even new courses about how to use model feature development stack
+<strong><a href="https://themodernsoftware.dev/" target="_blank">The Modern Software</a></strong> - There are even new courses about how to use model feature development stack
 </div>
 
 </div>
