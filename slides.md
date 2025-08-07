@@ -70,12 +70,12 @@ transition: fade-out
 
 <div>
 <h3 class="text-2xl mb-2">Real use-case</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
+<p class="text-gray-400">How do we use it and how should we use it at Venture Studio</p>
 </div>
 
 <div>
 <h3 class="text-2xl mb-2">Lessons</h3>
-<p class="text-gray-400">How do we use it and how should we use it at New Venture Studio</p>
+<p class="text-gray-400">Reusable parts</p>
 </div>
 
 </v-clicks>
@@ -191,7 +191,7 @@ transition: fade-out
 
 ### ✏️ Editors
 
-<div class="bg-green-50 p-4 rounded-lg">
+<div class="bg-green-50 p-3 rounded-lg text-sm">
 
 **[Cursor](https://cursor.com/)**  
 AI-first code editor
@@ -216,7 +216,7 @@ Agentic IDE for production code
 
 ### 🤖 Agents
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-3 rounded-lg text-sm">
 
 **[Cursor Agents](https://cursor.com/)**  
 Autonomous coding agents
@@ -230,9 +230,6 @@ AI coding companion
 **[Claude Code](https://claude.ai/)**  
 Anthropic's coding assistant
 
-**[Gemini CLI](https://ai.google.dev/gemini-api/docs)**  
-Google's AI in terminal
-
 **[Devin](https://devin.ai/)**  
 AI software engineer
 
@@ -244,7 +241,7 @@ AI software engineer
 
 ### 🎨 Apps
 
-<div class="bg-pink-50 p-4 rounded-lg">
+<div class="bg-pink-50 p-3 rounded-lg text-sm">
 
 **[Lovable.dev](https://lovable.dev/)**  
 Build apps with AI
@@ -255,8 +252,8 @@ Full-stack web dev in browser
 **[V0.dev](https://v0.dev/)**  
 UI generation by Vercel
 
-**[Gemini Canvas](https://aistudio.google.com/)**  
-Google's AI workspace
+**[Replit](https://replit.com/)**  
+Code, create, and learn together
 
 **[Spark](https://github.com/features/spark)**  
 Dream it. See it. Ship it.
@@ -326,6 +323,7 @@ Click on any tool to learn more
 **[Lovable.dev](https://lovable.dev/)**  
 **[Bolt.new](https://bolt.new/)**  
 **[V0.dev](https://v0.dev/)**  
+**[Replit](https://replit.com/)**  
 **[Gemini Canvas](https://aistudio.google.com/)**  
 **[Spark](https://github.com/features/spark)**  
 
@@ -621,7 +619,7 @@ layout: section
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
 </div>
 
-How do we use it and how should we use it at New Venture Studio
+How do we use it and how should we use it at Venture Studio
 
 ---
 
@@ -633,7 +631,7 @@ How do we use it and how should we use it at New Venture Studio
 
 <div class="flex items-center">
 <div>
-<h3 class="text-lg font-bold mb-2">New Venture Studio in Toronto focused on HCI</h3>
+<h3 class="text-lg font-bold mb-2">Venture Studio in Toronto focused on HCI</h3>
 <p class="text-sm mb-3">(Human Computer Interaction)</p>
 
 <div class="text-sm">
