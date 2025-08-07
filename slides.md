@@ -851,7 +851,7 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 
 ---
 
-# Modern Software Development Resources
+# Stanford Course Reference
 
 <div class="abs-tr m-4">
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
@@ -860,26 +860,7 @@ Please provide a level of effort (LoE) estimate for the reusability of each modu
 <div class="mt-4">
 
 <div class="text-lg mb-6">
-<strong>The landscape of software development is evolving rapidly with AI-assisted development!</strong>
-</div>
-
-<div v-click>
-
-### 🎓 Learning Resources:
-
-- **[The Modern Software](https://themodernsoftware.dev/)** - Comprehensive courses and resources
-- There are even new courses about how to use model feature development stack
-- Stay updated with the latest AI-powered development practices
-
-</div>
-
-<div v-click class="mt-6 p-4 bg-blue-50 rounded-lg">
-
-### 💡 Why This Matters:
-- AI-assisted development is becoming the new standard
-- Understanding modern tooling gives you a competitive edge
-- Continuous learning is essential in this rapidly evolving field
-
+**[The Modern Software](https://themodernsoftware.dev/)** - There are even new courses about how to use model feature development stack
 </div>
 
 </div>
