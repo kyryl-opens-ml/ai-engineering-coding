@@ -562,6 +562,56 @@ Project Management at Big Tech
 </div>
 
 ---
+
+# Format measure attempt
+
+<div class="abs-tr m-4">
+  <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
+</div>
+
+<div class="mt-8">
+
+<div class="text-center text-lg mb-8">
+AI Productivity Gains: Greenfield vs. Brownfield Projects
+</div>
+
+<div class="grid grid-cols-2 gap-8">
+
+<div class="text-center">
+<div class="text-6xl font-bold text-green-500 mb-2">37.5%</div>
+<div class="text-lg font-semibold">Low Complexity</div>
+<div class="text-sm text-gray-600">Greenfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-yellow-600 mb-2">17.5%</div>
+<div class="text-lg font-semibold">Low Complexity</div>
+<div class="text-sm text-gray-600">Brownfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-green-500 mb-2">12.5%</div>
+<div class="text-lg font-semibold">High Complexity</div>
+<div class="text-sm text-gray-600">Greenfield Projects</div>
+</div>
+
+<div class="text-center">
+<div class="text-6xl font-bold text-yellow-500 mb-2">5%</div>
+<div class="text-lg font-semibold">High Complexity</div>
+<div class="text-sm text-gray-600">Brownfield Projects</div>
+</div>
+
+</div>
+
+<div class="text-center mt-8">
+<a href="https://www.youtube.com/watch?v=tbDDYKRFjhk" target="_blank" class="text-blue-500 hover:underline text-sm">
+Does AI Actually Boost Developer Productivity? (100k Devs Study)
+</a>
+</div>
+
+</div>
+
+---
 layout: section
 ---
 
@@ -740,7 +790,7 @@ Data from last 90 days across 7 repositories
 <div class="space-y-2 text-sm">
 
 <div class="p-2 bg-green-50 rounded">
-<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.newventurestudio.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.newventurestudio.vc</a> - apply if you want funding</p>
+<p class="font-semibold">✅ 1 production product - 100 companies used so far | <a href="https://pitch.axl.vc/" target="_blank" class="text-blue-600 hover:text-blue-800">pitch.axl.vc</a> - apply if you want funding</p>
 </div>
 
 <div class="p-2 bg-purple-50 rounded">
