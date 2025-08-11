@@ -561,7 +561,7 @@ Project Management at Big Tech
 
 ---
 
-# Format measure attempt
+# Formal measure attempt
 
 <div class="abs-tr m-4">
   <img src="https://avatars.githubusercontent.com/u/154631148?s=400&u=7655f835707397b8e92ad05044b5c3c9f7678348&v=4" alt="KOML Logo" class="w-12 h-12 rounded-full" />
